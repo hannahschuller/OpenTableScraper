@@ -1,0 +1,96 @@
+restaurant_id,name,rating,reviews,price,cuisine_location,timeslots
+285084,24 Stories,4.5,(1318),Price: Very Expensive,• British • Birmingham,22:00
+157902,The Ivy Temple Row,4.5,(13707),Price: Moderate,• British • Birmingham,"23:15, 23:30"
+260268,Lulu Wild,4.2,(503),Price: Expensive,• Chinese • Birmingham,22:30
+254949,Isaac’s Restaurant,4.1,(241),Price: Expensive,• Contemporary British • Birmingham,"23:15, 23:30, 00:00"
+338442,Madeleine Bar,4.3,(401),Price: Expensive,• Bar / Lounge / Bottle Service • Birmingham,"23:15, 23:30, 23:45"
+33142,Pasta di Piazza,4.7,(2169),Price: Moderate,• Italian • Birmingham,22:30
+384975,Regina's Bar & Restaurant,4.4,(35),Price: Expensive,• Italian • Birmingham,"22:30*, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar"
+259362,The Rolling Mill,4.5,(823),Price: Moderate,• International • Jewellery Quarter,"21:30*, Seating optionsStandardHigh TopBar, Seating optionsStandardHigh TopBar, Seating optionsStandardHigh TopBar, Seating optionsStandardHigh TopBar"
+371247,Royal Watan,4.7,(49),Price: Expensive,• Indian • Birmingham,23:00
+338304,Siamais,4.5,(463),Price: Expensive,• Thai • Birmingham,22:30
+206154,Milano Bar & Ristorante,4.5,(1292),Price: Moderate,• Italian • Birmingham,22:00
+67471,Cucina Rustica Birmingham,4.7,(1374),Price: Expensive,• Italian • Birmingham,22:30
+137586,Gaucho Birmingham,4.5,(3504),Price: Expensive,• Steak • Birmingham,22:30
+31978,Asha's Birmingham,4.5,(2878),Price: Very Expensive,• Indian • Birmingham,"22:30*, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar"
+329286,Piccolino - Birmingham,4.3,(595),Price: Expensive,• Italian • Edgbaston,22:45
+332649,Restaurant at The Woods,4.2,(370),Price: Moderate,• British • Birmingham,"22:00*, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor"
+287664,Riva Blu Italian Restaurant & Bar - Birmingham,4.5,(488),Price: Expensive,• Italian • Birmingham,22:45
+359247,Dil Se - Mail Box,4.5,(29),Price: Moderate,• Indian • Birmingham,22:00
+287871,Bank Birmingham,4.2,(534),Price: Expensive,• Contemporary British • Birmingham,"23:15*, Seating optionsBar, Seating optionsBar, Seating optionsBar, Seating optionsBar, 23:30*, Seating optionsBar, Seating optionsBar, Seating optionsBar, Seating optionsBar, 23:45*, Seating optionsBar, Seating optionsBar, Seating optionsBar, Seating optionsBar"
+103431,The High Field,4.6,(604),Price: Moderate,• British • Edgbaston,"21:15*, Seating optionsStandardBarOutdoor, Seating optionsStandardBarOutdoor, Seating optionsStandardBarOutdoor, Seating optionsStandardBarOutdoor"
+248421,Mythos Taverna,4.6,(907),Price: Moderate,• Greek • Birmingham,"22:30*, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor"
+175041,Noel's Bar and Restaurant,4.7,(1236),Price: Expensive,• Italian • Birmingham,22:00
+175494,Shogun Sushi and Noodle Bar,4.3,(198),Price: Moderate,• Japanese • Birmingham,22:00
+216339,Brasshouse Birmingham,4.1,(9),Price: Moderate,• British • Birmingham,21:00
+204321,Bill's Restaurant & Bar - Birmingham,4.2,(877),Price: Moderate,• British • Birmingham,"20:45*, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar"
+90228,Bistro du Vin Birmingham,4.5,(63),Price: Expensive,• French • Birmingham,22:00
+375009,Shrimp & Co Birmingham,4.1,(109),Price: Moderate,• Seafood • Birmingham,22:30
+29949,Itihaas,4.3,(651),Price: Expensive,• Indian • Birmingham,22:00
+102342,Taj Mahal,4.2,(114),Price: Moderate,• Indian • Birmingham,"23:15, 23:30, 23:45"
+131028,Colbeh Persian Kitchen & Bar,4.8,(77),Price: Expensive,• Persian • Birmingham,23:00
+425535,PizzaExpress Birmingham - Bullring Shopping Centre,,(0),Price: Moderate,• Pizzeria • Birmingham,21:00
+124518,The Rose and Crown,4.6,(1495),Price: Moderate,• British • Birmingham,"20:45*, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar"
+424278,KOKO Birmingham,3.8,(10),Price: Expensive,• Steakhouse • Erdington,"23:15, 23:30, 23:45"
+186681,Rico Libre,4.7,(572),Price: Expensive,• Tapas / Small Plates • Birmingham,"20:45*, Seating optionsStandardCounter, Seating optionsStandardCounter, Seating optionsStandardCounter, Seating optionsStandardCounter"
+353055,Rajdoot Indian Restaurant,4.7,(48),Price: Expensive,• Indian • Jewellery Quarter,22:30
+159696,Gaijin Sushi,4.7,(767),Price: Very Expensive,• Sushi • Birmingham,20:30
+181194,Chakana,4.9,(1400),Price: Expensive,• Peruvian • Birmingham,21:30
+126303,Restaurant Barajee,4.6,(54),Price: Moderate,• Indian • Birmingham,"23:15, 23:30, 23:45"
+59005,Pushkar Cocktail Bar & Dining,4.5,(545),Price: Expensive,• Indian • Birmingham,22:30
+383733,Ciaro Italian,4.6,(28),Price: Expensive,• Italian • Birmingham,22:30
+290898,LUCARELLI RESTAURANT MAILBOX,4.5,(15),Price: Expensive,• Italian • Birmingham,21:30
+385422,Locanta Italian Restaurant,4.3,(6),Price: Expensive,• Italian • Jewellery Quarter,21:30
+410775,Shrimp & Co Star City,4.5,(40),Price: Moderate,• Seafood • Birmingham,21:30
+362154,Oak Ca Phe (Birmingham),4.7,(71),Price: Moderate,• Vietnamese • Smethwick,"20:30*, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top"
+444684,Namaste at OMNOM Birminghamnew,,,Price: Moderate,• Vegetarian / Vegan • Jewellery Quarter,"22:00*, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor"
+385416,Pho Harborne,4.5,(82),Price: Moderate,• Vietnamese • Birmingham,20:45
+252264,Kobe Sizzlers Birmingham,4.1,(131),Price: Moderate,• Steak • Moseley,22:00
+341781,Berlioz Restaurant at Macdonald Burlington Hotel,3.8,(11),Price: Expensive,• British • Birmingham,"21:30, 00:45"
+342735,La Plancha,4.5,(85),Price: Expensive,• Spanish • Moseley,21:45
+123483,Casa Italia- Birmingham,4.9,(205),Price: Moderate,• Italian • Birmingham,22:00
+425538,PizzaExpress Birmingham - Resorts World Shopping Outlet,4.5,(1),Price: Moderate,• Pizzeria • Solihull,22:00
+325722,Ramen Don,4.8,(4),Price: Moderate,• Ramen • Birmingham,21:00
+287715,The Queens Head Birmingham,4.3,(35),Price: Moderate,• British • Birmingham,"20:45*, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top"
+243678,Walkabout Birmingham,2.0,(0),Price: Moderate,• Australian • Birmingham,21:00
+208584,Simpsons,4.8,(408),Price: Very Expensive,• Modern European • Edgbaston,20:30
+401961,Omnia restaurant,4.1,(12),Price: Moderate,• Mediterranean • Sutton Coldfield,"22:15*, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor"
+89686,Chez Mal Birmingham,3.9,(224),Price: Expensive,• British • Birmingham,22:15
+323151,Celebrity Indian Restaurant Birminghamnew,,,Price: Moderate,• Indian • Birmingham,"23:15, 23:30, 23:45"
+175908,Côte Brasserie - Solihull,4.3,(68),Price: Moderate,• French • Solihull,22:00
+107676,Blue Piano,4.2,(560),Price: Expensive,• Southeast Asian • Birmingham,21:00
+339630,Cheal's Restaurant and Bar,4.8,(272),Price: Very Expensive,• British • Solihull,"20:45*, Seating optionsStandardBarHigh Top, Seating optionsStandardBarHigh Top, Seating optionsStandardBarHigh Top, Seating optionsStandardBarHigh Top"
+396156,The Sheesh Turkish Meze and Grill,4.2,(3),Price: Expensive,• Turkish • Edgbaston,22:30
+290847,Temper & Brownnew,,,Price: Moderate,• Caribbean • Jewellery Quarter,21:30
+442593,The Fountain at Clent,,(0),Price: Expensive,• Gastro Pub • Stourbridge,21:00
+243807,Gosta Green Birmingham,5.0,(1),Price: Moderate,• Pub • Birmingham,21:00
+289053,Kibou Solihull,4.8,(82),Price: Expensive,• Japanese • Solihull,21:15
+284553,Eros Restaurant,4.8,(522),Price: Expensive,• Mediterranean • Knowle,22:00
+243810,Bristol Pear Birmingham,5.0,(0),Price: Moderate,• Pub • Birmingham,21:00
+175089,Terrace Restaurant at Crowne Plaza Solihull,4.2,(96),Price: Moderate,• British • Solihull,21:00
+125010,Eleven Bar & Grill at Crowne Plaza Birmingham NEC,4.0,(3),Price: Expensive,• Contemporary British • Birmingham,21:00
+453051,Empress Restaurantnew,,,Price: Expensive,• West African • Birmingham,23:00
+442155,Sapore,4.9,(8),Price: Expensive,• Italian • Birmingham,21:30
+208140,Nuthurst Grange Country House Hotel & Restaurant,4.9,(272),Price: Expensive,• Contemporary British • Solihull,20:45
+252048,The Forest Bar & Restaurant,4.5,(1081),Price: Moderate,• British • Solihull,"21:00*, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar"
+216324,Goose Selly Oak,5.0,(0),Price: Moderate,• British • Birmingham,21:00
+371454,LUCARELLI RESTAURANT WEST BROMWICH,5.0,(0),Price: Expensive,• Italian • West Bromwich,21:30
+320586,The New Ivy House,4.7,(323),Price: Moderate,• British • Walsall,"20:45*, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top"
+445449,Odorenew,4.5,(43),Price: Expensive,• Italian • Stourbridge,22:00
+393708,Soho Tavern Hampton,4.5,(81),Price: Moderate,• Gastro Pub • Solihull,22:00
+370413,The Cowshed,4.6,(37),Price: Expensive,• British • Boningale,21:00
+364857,Five Rivers Á la Carte,4.6,(24),Price: Very Expensive,• Indian • Walsall,22:00
+158625,Westmead Bar and Restaurant,4.3,(194),Price: Expensive,• International • Birmingham,21:00
+358821,Hogarths Brasserie,4.3,(42),Price: Expensive,• British • Solihull,21:00
+250047,The Bay Tree,4.8,(989),Price: Moderate,• British • Kinver,21:15
+338094,The Lancaster,4.5,(122),Price: Moderate,• Contemporary British • Wolverhampton,"21:00*, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar, Seating optionsStandardBar"
+298758,Bella Restaurant Ltd,4.9,(55),Price: Moderate,• Italian • Wolverhampton,21:00
+414876,Canalside Lounge,5.0,(2),Price: Moderate,• Indian • Wolverhampton,"21:30*, Seating optionsStandardBarHigh Top, Seating optionsStandardBarHigh Top, Seating optionsStandardBarHigh Top, Seating optionsStandardBarHigh Top"
+101718,Raja Monkey,4.7,(65),Price: Expensive,• Indian • Birmingham,22:30
+419325,Red Lion Wednesfield,4.8,(9),Price: Moderate,• Steakhouse • Wolverhampton,21:30
+244191,The Horseshoes,4.8,(894),Price: Moderate,• Gastro Pub • Stourbridge,"20:30*, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor, Seating optionsStandardOutdoor"
+219048,Hogshead Wolverhampton,4.2,(23),Price: Moderate,• British • Wolverhampton,21:00
+388572,The Nature at Hogarths,4.5,(1),Price: Very Expensive,• British • Solihull,21:00
+254181,Holiday Inn Coventry - Open Lobby,4.3,(11),Price: Expensive,• British • Birmingham,21:00
+419466,Grosvenor Casino Walsallnew,5.0,(1),Price: Moderate,• Unspecified • Walsall,"23:15, 23:30, 23:45"
+330054,Medicine at The Crown,4.3,(147),Price: Moderate,• Gastro Pub • Wolverhampton,"20:45*, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top, Seating optionsStandardHigh Top"
