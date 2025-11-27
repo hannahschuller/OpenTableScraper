@@ -1,0 +1,896 @@
+restaurant_id,name,price,timeslots,location,cuisine,city
+216807,The Spiritualist Aberdeen,Moderate,"23:00, 23:30, 00:00",aberdeen,Scottish,Aberdeen
+425358,Wild Goosenew,Expensive,"23:00, 23:30, 00:00",aberdeen,British,Aberdeen
+292485,Faffless,Moderate,23:00,aberdeen,Wine Bar,Aberdeen
+362364,The Tilted Wignew,Moderate,23:00,aberdeen,Pub,Aberdeen
+419469,Grosvenor Casino Aberdeennew,Expensive,"23:00, 23:30, 00:00",aberdeen,British,Aberdeen
+157902,The Ivy Temple Row,Moderate,23:30,birmingham,British,Birmingham
+260268,Lulu Wild,Expensive,22:30,birmingham,Chinese,Birmingham
+254949,Isaac’s Restaurant,Expensive,"23:30, 00:00",birmingham,Contemporary British,Birmingham
+338442,Madeleine Bar,Expensive,23:30,birmingham,Bar / Lounge / Bottle Service,Birmingham
+33142,Pasta di Piazza,Moderate,22:30,birmingham,Italian,Birmingham
+384975,Regina's Bar & Restaurant,Expensive,22:30,birmingham,Italian,Birmingham
+371247,Royal Watan,Expensive,23:00,birmingham,Indian,Birmingham
+338304,Siamais,Expensive,22:30,birmingham,Thai,Birmingham
+67471,Cucina Rustica Birmingham,Expensive,22:30,birmingham,Italian,Birmingham
+137586,Gaucho Birmingham,Expensive,22:30,birmingham,Steak,Birmingham
+31978,Asha's Birmingham,Very Expensive,22:30,birmingham,Indian,Birmingham
+287871,Bank Birmingham,Expensive,23:30,birmingham,Contemporary British,Birmingham
+248421,Mythos Taverna,Moderate,22:30,birmingham,Greek,Birmingham
+375009,Shrimp & Co Birmingham,Moderate,22:30,birmingham,Seafood,Birmingham
+102342,Taj Mahal,Moderate,23:30,birmingham,Indian,Birmingham
+131028,Colbeh Persian Kitchen & Bar,Expensive,23:00,birmingham,Persian,Birmingham
+424278,KOKO Birmingham,Expensive,23:30,birmingham,Steakhouse,Erdington
+353055,Rajdoot Indian Restaurant,Expensive,22:30,birmingham,Indian,Jewellery Quarter
+126303,Restaurant Barajee,Moderate,23:30,birmingham,Indian,Birmingham
+59005,Pushkar Cocktail Bar & Dining,Expensive,22:30,birmingham,Indian,Birmingham
+383733,Ciaro Italian,Expensive,22:30,birmingham,Italian,Birmingham
+323151,Celebrity Indian Restaurant Birminghamnew,Moderate,23:30,birmingham,Indian,Birmingham
+396156,The Sheesh Turkish Meze and Grill,Expensive,22:30,birmingham,Turkish,Edgbaston
+453051,Empress Restaurantnew,Expensive,23:00,birmingham,West African,Birmingham
+101718,Raja Monkey,Expensive,22:30,birmingham,Indian,Birmingham
+419466,Grosvenor Casino Walsallnew,Moderate,23:30,birmingham,Unspecified,Walsall
+157905,The Ivy in the Lanes,Moderate,22:30,brighton,British,Brighton
+277881,"The Ivy Asia, Brighton",Expensive,22:30,brighton,Contemporary Asian,Brighton
+424893,Clementine & Co,Moderate,23:00,brighton,Cocktail Bar,Hove
+11035,Food for Friends,Moderate,22:30,brighton,Vegetarian / Vegan,Brighton
+290214,KUSIKUY,Expensive,23:00,brighton,Peruvian,Hove
+383853,Salt & Charcoal,Moderate,"23:00, 23:30",brighton,Greek,Brighton
+388677,Persia Lounge Hove,Moderate,22:30,brighton,Persian,Brighton
+416730,Chowpatty,Moderate,22:30,brighton,Indian,Hove
+195075,Al Rouche,Moderate,22:30,brighton,Middle Eastern,Hove
+138069,The Ivy on the Square,Expensive,22:30,edinburgh,British,Old Town
+128769,Badger & Co,Moderate,22:30,edinburgh,Scottish,Edinburgh
+137754,Copper Blossom,Moderate,23:00,edinburgh,Cocktail Bar,Edinburgh
+142638,Gaucho Edinburgh,Expensive,23:00,edinburgh,Steak,Edinburgh
+165366,Cold Town House,Moderate,22:30,edinburgh,Brewery,Edinburgh
+112095,Hard Rock Cafe - Edinburgh,Moderate,22:30,edinburgh,American,New Town
+245394,The Broughton,Moderate,23:00,edinburgh,Scottish,Edinburgh
+424110,Evergreen Bar & Kitchen,Expensive,"23:00, 23:30, 00:00",edinburgh,Scottish,New Town
+345483,Edinburgh - Bucks Bar Hanover Street,Moderate,22:30,edinburgh,American,New Town
+112713,Indian Lounge,Moderate,23:00,edinburgh,Indian,New Town
+310851,Edinburgh - Bucks Bar Grindlay Street,Moderate,22:30,edinburgh,American,Old Town
+451230,The Gilded Saloon,Moderate,23:00,edinburgh,Pub,Old Town
+442986,Social by Matto,Moderate,22:30,edinburgh,Italian,Edinburgh
+443892,The Gruff Goat,Moderate,22:30,edinburgh,Bistro,Old Town
+158844,The Voyage of Buck,Expensive,"23:00, 23:30, 00:00",edinburgh,Contemporary British,Edinburgh
+112428,The Black Bull,Moderate,23:00,edinburgh,Scottish,Old Town
+276303,Nor' Loft,Moderate,22:30,edinburgh,Scottish,The Royal Mile
+184134,McLarens on the Corner,Moderate,22:30,edinburgh,Scottish,Edinburgh
+112749,Heads & Tales,Moderate,"23:00, 23:30, 00:00",edinburgh,Cocktail Bar,Westend
+286293,Gordon Ramsay Street Burger - Edinburgh,Moderate,23:00,edinburgh,Burgers,New Town
+265143,Tolbooth Tavern,Moderate,23:00,edinburgh,Scottish,Old Town
+84568,Whighams Wine Cellars,Expensive,"23:00, 23:30",edinburgh,Wine Bar,New Town
+443460,The Green Room,Expensive,23:00,edinburgh,French,Edinburgh
+214305,House of Gods Cocktail Lounge Edinburgh,Moderate,"23:00, 23:30, 00:00",edinburgh,Bar / Lounge / Bottle Service,Edinburgh
+390108,Bar 1819,Expensive,"23:00, 23:30, 00:00",edinburgh,Bar / Lounge / Bottle Service,Old Town
+125892,Burgers & Beers Grillhouse,Moderate,22:30,edinburgh,Grill,The Royal Mile
+104142,Vinyasa,Moderate,23:00,edinburgh,Indian,Edinburgh
+112332,The Blackbird,Moderate,23:00,edinburgh,Contemporary British,Tollcross/Fountain Bridge
+83929,56 North,Moderate,"23:00, 23:30, 00:00",edinburgh,Gastro Pub,Newington
+275880,The Caley Bar,Moderate,"23:00, 23:30",edinburgh,Bar / Lounge / Bottle Service,New Town
+419481,Grosvenor Casino Edinburghnew,Moderate,23:00,edinburgh,British,Edinburgh
+112383,Queens Spicenew,Expensive,22:30,edinburgh,Indian,Edinburgh
+425523,PizzaExpress Basildon - Festival Leisure Park,Moderate,23:00,essex,Pizzeria,Basildon
+342909,The Eyna Basildon,Expensive,22:30,essex,Turkish,Basildon
+280776,Kara Lounge & Grill,Moderate,22:30,essex,Turkish,Grays
+425541,PizzaExpress Brentwood - High Street,Moderate,23:00,essex,Pizzeria,Brentwood
+425880,PizzaExpress Rayleigh - High Street,Moderate,23:00,essex,Pizzeria,Rayleigh
+176604,Gods Own Pizza Shenfield,Moderate,22:30,essex,Pizzeria,Brentwood
+205959,Efezade Mezze Grill,Moderate,23:00,essex,Turkish,Chigwell
+425691,PizzaExpress Southend - London Road,Moderate,23:00,essex,Pizzeria,Southend-On-Sea
+419724,Mirra,Expensive,23:00,essex,Mediterranean,Colchester
+350538,Aloha Lounge,Very Expensive,22:30,essex,Hawaiian,Southend-On-Sea
+253575,Zamana,Moderate,23:00,essex,Pakistani,Ilford
+426081,The Tarunew,Very Expensive,22:30,essex,Modern European,Buckhurst Hill
+290652,Coco Asia,Expensive,"23:00, 23:30, 00:00",essex,Pan-Asian,Grays
+419373,Grosvenor Casino Southendnew,Expensive,23:00,essex,British,Southend-On-Sea
+425805,PizzaExpress Epping - High Street,Moderate,23:00,essex,Pizzeria,Epping
+375198,Nuwairahs Japanese & Mexican Kitchen - Harlow,Expensive,"23:00, 23:30",essex,Sushi,Harlow
+193299,Yaz Restaurant,Moderate,"23:00, 23:30",essex,Middle Eastern,Highams Park
+425859,PizzaExpress Harlow - Water Gardens,Moderate,23:00,essex,Pizzeria,Harlow
+31729,Thundercat Pub & Diner,Moderate,22:30,glasgow,American,Glasgow
+250635,The Spiritualist Glasgow,Moderate,23:30,glasgow,Cocktail Bar,Glasgow
+141861,"The Ivy Montpellier Brasserie, Cheltenham",Moderate,22:30,gloucestershire,British,Cheltenham
+319044,The Nook On Five,Very Expensive,"23:00, 23:30, 00:00",gloucestershire,British,Cheltenham
+450927,La Petite Bar & Grill - High Street Cheltenham,Moderate,22:30,gloucestershire,Contemporary French,Cheltenham
+450864,Tabouli Terracenew,Moderate,22:30,gloucestershire,Middle Eastern,Cheltenham
+325470,Mr. Cambray's Curiosity,Moderate,23:00,gloucestershire,Wine Bar,Cheltenham
+278376,"Amore Italian, Corsham",Moderate,22:30,gloucestershire,Italian,Corsham
+337305,Edo Asia,Expensive,"23:00, 23:30",hampshire,Japanese,Southampton
+157908,The Ivy Winchester Brasserie,Moderate,22:30,hampshire,British,Winchester
+131802,Red Dog Saloon Southampton,Moderate,23:00,hampshire,American,Southampton
+275352,Shanghai 1814,Very Expensive,22:30,hampshire,Shanghainese,Southampton
+333990,PADHARO RESTAURANT SOUTHAMPTON,Moderate,22:30,hampshire,Indian,Southampton
+453372,Good Thingsnew,Moderate,"23:00, 23:30, 00:00",hampshire,Cocktail Bar,Southampton
+361305,The Kara Fleet,Expensive,"23:00, 23:30, 00:00",hampshire,Turkish,Fleet
+374322,Guru - Ji,Expensive,22:30,hampshire,Asian,Fleet
+288705,Wild Carrot Bar,Very Expensive,"23:00, 23:30, 00:00",hampshire,Contemporary British,Dogmersfield
+278091,Bounty Inn,Moderate,22:30,hampshire,Pub,Basingstoke
+157911,The Ivy St Albans Brasserie,Moderate,22:30,hertfordshire,British,St. Albans
+425697,PizzaExpress St Albans - Verulam Road,Moderate,22:30,hertfordshire,Pizzeria,St. Albans
+308310,MUST Wine Bar St Albans,Expensive,23:00,hertfordshire,Wine Bar,St. Albans
+248490,BHAGEECHA,Expensive,22:30,hertfordshire,Indian,Radlett
+274221,White Horse - London Colney,Moderate,23:00,hertfordshire,Pub,Radlett
+425874,PizzaExpress Radlett - Watling Street,Moderate,23:00,hertfordshire,Pizzeria,Radlett
+171264,Judges Restaurant & Cocktail bar,Expensive,"23:00, 23:30, 00:00",hertfordshire,Modern European,Potters Bar
+425871,PizzaExpress Hemel Hempstead - Riverside,Moderate,23:00,hertfordshire,Pizzeria,Hemel Hempstead
+369576,The Bank,Expensive,22:30,hertfordshire,Indian,Rickmansworth
+425715,PizzaExpress Watford - High Street,Moderate,23:00,hertfordshire,Pizzeria,Watford
+215397,Gables Restaurant,Expensive,22:30,hertfordshire,International,Hertford
+127341,Dolce Caffè & Restaurant,Moderate,22:30,hertfordshire,French,Rickmansworth
+268785,Neelakash Restaurant,Moderate,22:30,hertfordshire,Indian,Ware
+144372,San Giorgionew,Expensive,22:30,hertfordshire,Italian,Borehamwood
+442158,The Old Paparazzi,Expensive,"23:00, 23:30",hertfordshire,Italian,Potters Bar
+138339,Ruby's,Moderate,22:30,hertfordshire,Indian,Bishop's Stortford
+389022,Nuwairahs Japanese & Mexican Kitchen - Bishops Stortford,Expensive,22:30,hertfordshire,Japanese,Bishop's Stortford
+141858,The Ivy Royal Tunbridge Wells,Moderate,22:30,kent,British,Tunbridge Wells
+141561,Sultan,Expensive,22:30,kent,Indian,Chatham
+343659,Essence at the Pantiles by Atul Kochhar,Expensive,22:30,kent,Indian,Tunbridge Wells
+368148,"The Ivy, Canterbury",Moderate,22:30,kent,British,Canterbury
+423918,Eagle Grill and Barnew,Expensive,22:30,kent,Mediterranean,Maidstone
+261459,Pierluigi's,Very Expensive,22:30,kent,Italian,Beckenham
+344004,Lemons Bar,Moderate,23:00,kent,Cocktail Bar,Tunbridge Wells
+199140,Citi Terrace,Moderate,"23:00, 23:30, 00:00",kent,Fusion / Eclectic,Canterbury
+410400,Raasa,Very Expensive,22:30,kent,Indian,Orpington
+387429,Durbar Spice,Moderate,22:30,kent,Indian,Biggin Hill
+370512,The Grapevine - Tenterden,Expensive,"23:00, 23:30, 00:00",kent,Wine Bar,Tenterden
+454485,Allkin Tap and Bottlenew,Expensive,"23:00, 23:30",kent,Bar / Lounge / Bottle Service,Tunbridge Wells
+281073,The Greek Meze - Sidcup,Moderate,22:30,kent,Greek,Sidcup
+106221,Shampan Welling,Expensive,23:00,kent,Indian,Bexleyheath
+419376,Grosvenor Casino Thanet,Very Expensive,"23:00, 23:30, 00:00",kent,British,Ramsgate
+96807,Sapore Vero - Beckenham,Expensive,22:30,kent,Pizzeria,Beckenham
+260145,Gino D'Acampo Liverpool,Moderate,23:00,liverpool,Contemporary Italian,Liverpool
+346185,360 Sky Bar,Moderate,"23:00, 23:30, 00:00",liverpool,Italian,Liverpool
+285213,Gaucho Liverpool,Expensive,23:00,liverpool,Steakhouse,Liverpool
+426087,"The Ivy Asia, Liverpoolnew",Expensive,22:30,liverpool,Asian,Liverpool
+370230,Ivy Liverpool,Moderate,22:30,liverpool,British,Liverpool
+287865,The Restaurant Bar & Grill - Liverpool,Expensive,"23:00, 23:30, 00:00",liverpool,Grill,Liverpool
+287655,Riva Blu Italian Restaurant & Bar - Liverpool,Expensive,22:30,liverpool,Italian,Liverpool
+136803,Red Dog Saloon - Liverpool,Moderate,"23:00, 23:30, 00:00",liverpool,Barbecue,Liverpool
+327726,"Piccolino - Cook Street, Liverpool",Expensive,22:30,liverpool,Italian,Liverpool
+338418,Puffin' Rooms - Liverpool,Expensive,23:00,liverpool,British,Liverpool
+419424,Grosvenor Casino Liverpool Leonew,Moderate,"23:00, 23:30, 00:00",liverpool,British,Liverpool
+445977,GRAND BY IKKAYEES,Moderate,"23:00, 23:30",liverpool,Indian,Liverpool
+460683,Paolo's Wood Fire Pizzanew,Moderate,23:00,liverpool,Pizza Bar,Wirral
+162660,Ayuthaya,Moderate,22:30,liverpool,Thai,Liverpool
+180657,"The Ivy Asia, St. Paul's",Expensive,"23:00, 23:30",city_of_london,Asian,St Paul's
+317043,Los Mochis London City,Very Expensive,"23:00, 23:30, 00:00",city_of_london,Pacific Rim,Liverpool Street
+134241,Millie’s Lounge at The Ned London,Very Expensive,22:30,city_of_london,British,Bank
+134256,Kaia at The Ned London,Very Expensive,22:30,city_of_london,Pan-Asian,Bank
+134253,Electric Bar & Diner at The Ned London,Expensive,22:30,city_of_london,Deli,Bank
+100374,Apulia,Expensive,22:30,city_of_london,Mediterranean,Barbican
+176346,The Parlour at The Ned London,Very Expensive,22:30,city_of_london,International,Bank
+364587,Lucky Cat - Bishopsgate,Very Expensive,"23:00, 23:30, 00:00",city_of_london,Contemporary Asian,Liverpool Street
+175752,Côte Brasserie - Barbican,Moderate,22:30,city_of_london,French,Barbican
+17680,Gaucho Broadgate,Expensive,22:30,city_of_london,Steak,Liverpool Street
+111249,Macellaio RC Exmouth Market,Expensive,23:00,city_of_london,Italian,Farringdon
+16783,Gaucho City,Expensive,22:30,city_of_london,Steak,Fenchurch Street
+453198,The India - Monumentnew,Moderate,"23:00, 23:30",city_of_london,Indian,Fenchurch Street
+289233,Leaf and Cane Bar,Expensive,"23:00, 23:30",city_of_london,Bar / Lounge / Bottle Service,Blackfriars
+145680,DND,Expensive,"23:00, 23:30, 00:00",city_of_london,Bar / Lounge / Bottle Service,Bank
+31327,Mint Leaf London,Expensive,22:30,city_of_london,Indian,Bank
+134295,Mattarello Bolognese,Expensive,22:30,city_of_london,Italian,Aldgate
+17686,Gaucho Chancery,Expensive,22:30,city_of_london,Steak,Chancery Lane
+158013,Humble Grape Liverpool Street,Moderate,23:00,city_of_london,Wine Bar,Liverpool Street
+257868,Polo Bar - 24 Hour Great British Café and Bar,Moderate,22:30,city_of_london,British,Liverpool Street
+318387,Threadneedles Restaurant & Bar,Expensive,22:30,city_of_london,Contemporary British,Bank
+425775,PizzaExpress London - Tower Hill,Moderate,23:00,city_of_london,Pizzeria,Fenchurch Street
+448428,Lahori Karahi,Moderate,23:00,city_of_london,Pakistani,Aldgate
+250326,"1947 RESTAURANT, BAR & PIZZA KITCHEN",Moderate,22:30,city_of_london,Indian,Aldgate
+247242,Gordon Ramsay Street Burger — Charing Cross Road,Moderate,23:00,city_of_london,Burgers,Bank
+406179,Mumbai Square Restaurant,Expensive,22:30,city_of_london,Indian,Aldgate
+313401,The India - City Roadnew,Moderate,"23:00, 23:30",city_of_london,Indian,Moorgate
+424227,The India - Fleet Streetnew,Moderate,"23:00, 23:30",city_of_london,Indian,Chancery Lane
+253968,Ginger Lily Bar & Lounge,Moderate,"23:00, 23:30, 00:00",city_of_london,Bar / Lounge / Bottle Service,Liverpool Street
+321210,Atrium Bar & Restaurant at The President Hotel,Moderate,"23:00, 23:30, 00:00",city_of_london,British,Farringdon
+282597,Mediterraneo,Moderate,22:30,city_of_london,Italian,Clerkenwell
+283743,STK Rooftop Steakhouse & Bar,Expensive,22:30,east_london,Steakhouse,Stratford
+102480,The Blues Kitchen - Shoreditch,Moderate,22:30,east_london,American,Shoreditch
+87796,City Spice - Brick Lane,Moderate,23:00,east_london,Indian,Spitalfields
+164877,Blacklock Shoreditch,Moderate,22:30,east_london,Steak,Shoreditch
+159078,Cecconi's Shoreditch,Expensive,22:30,east_london,Italian,Shoreditch
+250152,"Eadn London - Restaurant, Bar & Lounge",Expensive,22:30,east_london,Mediterranean,Canning Town
+68431,Red Dog Saloon Hoxton,Moderate,23:00,east_london,American,Shoreditch
+294471,Three Sheets - Dalston,Moderate,"23:00, 23:30",east_london,Cocktail Bar,Dalston
+144870,Il Bacino,Moderate,22:30,east_london,Italian,Wapping
+331833,Sticks'n'Sushi - Shoreditch,Expensive,22:30,east_london,Sushi,Shoreditch
+446100,Il Bambini Trattorianew,Moderate,22:30,east_london,Italian,Shoreditch
+348405,Big Night,Moderate,22:30,east_london,Barbecue,Hackney
+294441,Hacha Dalston,Moderate,22:30,east_london,Mexican,Dalston
+351141,The Brush East London Grand Café,Moderate,"23:00, 23:30, 00:00",east_london,Modern European,Shoreditch
+372354,Hera,Expensive,22:30,east_london,Greek,Stratford
+367884,The Marquee Moon,Moderate,"23:00, 23:30, 00:00",east_london,Southeast Asian,Dalston
+318753,El Ganso Cafe,Expensive,23:00,east_london,Spanish,Hackney
+43281,PizzaExpress London - Bishopsgate,Moderate,23:00,east_london,Pizzeria,Spitalfields
+351348,cloudM rooftop bar at citizenM Tower of London,Expensive,22:30,east_london,Bar / Lounge / Bottle Service,Tower Hill
+453066,The Famous Curry Bazaar - Brick Lanenew,Moderate,"23:00, 23:30, 00:00",east_london,Indian,Spitalfields
+143157,Coupette,Moderate,"23:00, 23:30, 00:00",east_london,Cocktail Bar,Bethnal Green
+382776,Raos Bar and Restaurant,Moderate,"23:00, 23:30, 00:00",east_london,Indian,Hackney
+425847,PizzaExpress Hackney - Mare Street,Moderate,23:00,east_london,Pizzeria,Homerton
+122997,HS&Co Steak Restaurant,Moderate,23:00,east_london,Steakhouse,Stratford
+456894,Efes Gourmetnew,Expensive,"23:00, 23:30",east_london,Turkish,Stepney
+457089,Paper Tigernew,Moderate,22:30,east_london,Bar / Lounge / Bottle Service,Hackney
+142401,Via Emilia by Food Roots - SHOREDITCH,Moderate,22:30,east_london,Italian,Hoxton
+441363,MOB pizza socials,Moderate,23:00,east_london,Pizzeria,Hackney
+367539,Burnt Millnew,Moderate,22:30,east_london,Italian,Hackney
+418458,Play ldn,Moderate,"23:00, 23:30, 00:00",east_london,Mediterranean,Homerton
+401697,Hidden Grooves,Moderate,"22:30, 23:00, 23:30, 00:00",east_london,Cocktail Bar,Shoreditch
+425706,PizzaExpress Stratford East - Theatre Square,Moderate,23:00,east_london,Pizzeria,Stratford
+353292,Negi & Nori - Shoreditch,Moderate,23:00,east_london,Japanese,Shoreditch
+451062,45 Curtain Roadnew,Expensive,22:30,east_london,Japanese,Shoreditch
+393786,The Standard Bricklane,Moderate,22:30,east_london,Indian,Spitalfields
+334845,Mez Lounge,Expensive,"23:00, 23:30, 00:00",east_london,African,Walthamstow
+394548,The 71,Expensive,23:00,east_london,Steakhouse,South Woodford
+453063,Bengal Village - Best of Brick Lanenew,Moderate,"23:00, 23:30",east_london,Indian,Spitalfields
+426168,Hanoi Bistro & Kitchen,Moderate,22:30,east_london,Vietnamese,Hackney
+441492,Mota Mamu,Moderate,22:30,east_london,Pakistani,Hoxton
+325827,Lissome Italian Restaurant,Moderate,22:30,east_london,Italian,Dalston
+456027,Sumiya Shoreditch Japanese restaurant and barnew,Expensive,"23:00, 23:30, 00:00",east_london,Japanese,Hackney
+162093,MAP Maison,Moderate,"23:00, 23:30, 00:00",east_london,Contemporary European,Hackney
+361770,Silk Stockings,Moderate,"23:00, 23:30, 00:00",east_london,Cocktail Bar,Dalston
+369990,MyShish,Expensive,"23:00, 23:30, 00:00",east_london,Mediterranean,Walthamstow
+371574,Soul Mama Music Venue | Restaurant,Expensive,22:30,east_london,Soul food,Stratford
+173247,Mezzanine,Moderate,"23:00, 23:30",east_london,International,Stratford
+460182,lowcountrynew,Expensive,23:00,east_london,Bar / Lounge / Bottle Service,Hoxton
+137052,Lokkum Bar & Grill,Expensive,"22:30, 23:00",east_london,Turkish,South Woodford
+425685,PizzaExpress South Woodford - High Road,Moderate,23:00,east_london,Pizzeria,South Woodford
+453597,Fresco La Cucinanew,Expensive,"23:00, 23:30, 00:00",east_london,Italian,Spitalfields
+425712,PizzaExpress Upminister - St Marys Lane,Moderate,23:00,east_london,Pizzeria,Upminster
+308391,MUST Wine Bar Wanstead,Expensive,22:30,east_london,Wine Bar,Wanstead
+425673,PizzaExpress Romford - The Brewery Shopping Centre,Moderate,23:00,east_london,Pizzeria,Romford
+49255,The Blues Kitchen - Camden,Moderate,22:30,north_london,American,Camden Town
+247824,Spagnoletti,Expensive,22:30,north_london,Italian,King's Cross
+15445,Mestizo Camden - Mexican Restaurant,Expensive,22:30,north_london,Mexican,Euston
+143697,The Granary Square Brasserie,Moderate,22:30,north_london,British,King's Cross
+400296,Harry's King's Cross,Expensive,22:30,north_london,Italian,King's Cross
+21342,Moro,Very Expensive,22:30,north_london,Mediterranean,Angel
+420837,HUŎ Belsize Village,Expensive,22:30,north_london,Asian,Belsize Park
+93390,Goodfare Restaurant,Moderate,22:30,north_london,Italian,Camden Town
+98550,Feng Shang Princess Floating Restaurant,Expensive,22:30,north_london,Cantonese,Primrose Hill
+169524,Terra Rossa - Angel,Expensive,22:30,north_london,Italian,Islington
+425553,PizzaExpress Camden - Parkway,Moderate,23:00,north_london,Pizzeria,Camden Town
+16792,Gaucho Hampstead,Expensive,22:30,north_london,Steak,Swiss Cottage
+425637,PizzaExpress London - Euston Road,Moderate,23:00,north_london,Pizzeria,Euston
+80545,Drummond Villa,Moderate,"22:30, 23:00",north_london,Indian,Euston
+207831,Villa Bianca,Very Expensive,23:00,north_london,Italian,Hampstead
+334059,Bonzai London,Expensive,"23:00, 23:30, 00:00",north_london,Asian,Euston
+367455,Sticks'n'Sushi - Islington,Expensive,22:30,north_london,Sushi,Angel
+425529,PizzaExpress Belsize Park - Haverstock Hill,Moderate,23:00,north_london,Pizzeria,Hampstead
+106023,Alexander The Great,Moderate,23:00,north_london,Greek,Camden Town
+143901,Iznik,Expensive,22:30,north_london,Turkish,Highbury/Islington
+98541,Tomo Italian Kitchen,Moderate,22:30,north_london,Italian,Hornsey
+357438,Oliviya,Moderate,23:00,north_london,Middle Eastern,Hampstead
+72931,Mangia Bene,Moderate,23:00,north_london,Italian,Angel
+273897,Andromeda Restaurant,Moderate,23:00,north_london,Greek,Camden Town
+425655,PizzaExpress London - Islington,Moderate,23:00,north_london,Pizzeria,Canonbury
+72364,Namaaste Kitchen,Moderate,22:30,north_london,Indian,Camden Town
+151194,Humble Grape Islington,Moderate,23:00,north_london,Wine Bar,Islington
+376032,Two more beers London,Expensive,23:00,north_london,Modern European,Angel
+116697,La Gioconda Pizzorante,Moderate,23:00,north_london,Italian,Hornsey
+290208,The Cross,Expensive,22:30,north_london,Mediterranean,King's Cross
+111108,El Inca Plebeyo,Expensive,22:30,north_london,Latin American,Islington
+425883,PizzaExpress Highgate - High Street,Moderate,23:00,north_london,Pizzeria,Highgate
+385746,Il Porcino,Moderate,22:30,north_london,Italian,Muswell Hill
+443355,TajMahal Indian Cuisine - King's Cross,Moderate,23:00,north_london,Indian,Euston
+442290,Pescobar Seafood London,Expensive,22:30,north_london,Seafood,Camden Town
+96678,Iberia Georgian Restaurant,Expensive,23:00,north_london,Eastern European,Barnsbury
+452532,Zoya Indian Lounge,Moderate,"23:00, 23:30, 00:00",north_london,Indian,Euston
+455943,Smoky Resto Loungenew,Moderate,23:00,north_london,Mediterranean,Bounds Green/Wood Green
+164964,Mimmo La Bufala,Moderate,22:30,north_london,Italian,Hampstead
+92445,Indian Lounge,Moderate,23:00,north_london,Indian,King's Cross
+380439,Camden Tandoori,Moderate,"23:00, 23:30",north_london,Indian,Kentish Town
+425838,PizzaExpress Muswell Hill - Broadway,Moderate,23:00,north_london,Pizzeria,Muswell Hill
+93723,Wolkite Restaurant,Moderate,22:30,north_london,Ethiopian,Holloway
+157275,El Rincon Holloway,Moderate,23:00,north_london,Latin / Spanish,Holloway
+262962,Judges Dining Restaurant Enfield,Expensive,22:30,north_london,Modern European,Enfield
+386073,La Torre Restaurant Crouch End,Moderate,22:30,north_london,Italian,Crouch End
+324135,Nona Restaurant,Moderate,23:00,north_london,Italian,Swiss Cottage
+379605,Zeytoon Restaurant,Moderate,22:30,north_london,Persian,Hampstead
+91341,Izgara Restaurant - Whetstone,Moderate,23:00,north_london,Turkish,Whetstone
+393945,Judges Barnet,Expensive,22:30,north_london,European,Barnet
+425829,PizzaExpress Mill Hill - The Broadway,Moderate,23:00,north_london,Pizzeria,Edgware
+172029,The Rajdoot Hampstead,Moderate,22:30,north_london,Indian,Hampstead
+353733,Izgara restaurant,Moderate,22:30,north_london,Turkish,Edgware
+426696,Indi Pub Kitchen  @The Old Ivy House,Moderate,22:30,north_london,Indian,Islington
+347184,Carlos @ B & V,Moderate,"23:00, 23:30",north_london,Modern European,Winchmore Hill
+402315,Silvi Restaurant,Expensive,22:30,north_london,Italian,Finchley
+306924,ET House Turkish Restaurant,Moderate,"23:00, 23:30",north_london,Turkish,Kentish Town
+425520,PizzaExpress Barnet - High Street,Moderate,23:00,north_london,Pizzeria,Barnet
+387219,Blac Restaurant & Lounge,Expensive,"23:00, 23:30, 00:00",north_london,Fusion / Eclectic,Whetstone
+457182,Sabini Barnew,Moderate,22:30,north_london,Bar / Lounge / Bottle Service,Islington
+445713,Zeybek Restaurant Meyhanenew,Moderate,"23:00, 23:30",north_london,Turkish,Hornsey
+425694,PizzaExpress Southgate - Chaseside,Moderate,23:00,north_london,Pizzeria,Southgate
+452652,Alkis Restaurantnew,Moderate,23:00,north_london,Turkish,Edgware
+388554,Coal City Restaurant,Expensive,"23:00, 23:30, 00:00",north_london,West African,Edmonton
+390867,Bolyari,Moderate,23:00,north_london,Eastern European,Palmers Green
+457122,Yado Lounge and Restaurantnew,Expensive,23:00,north_london,Bar / Lounge / Bottle Service,Finchley
+280347,Meze & Shish,Moderate,22:30,north_london,Turkish,East Finchley
+363525,Casablanca London,Moderate,"23:00, 23:30",north_london,Moroccan,Edgware
+277992,Blacklist Lounge,Very Expensive,"23:00, 23:30, 00:00",north_west_london,Lounge,Regent's Park
+369252,Mr Fish Restaurantnew,Moderate,"23:00, 23:30",north_west_london,Fish,Queen's Park
+105027,Maroush St John's Wood,Expensive,22:30,north_west_london,Lebanese,St John's Wood
+425700,PizzaExpress St Johns Wood - Abbey Road,Moderate,23:00,north_west_london,Pizzeria,St John's Wood
+402522,Maharani Palace Camden,Very Expensive,22:30,north_west_london,Indian,Regent's Park
+247704,Sapores Restaurant,Expensive,"23:00, 23:30, 00:00",north_west_london,Halal,Regent's Park
+442017,Masakali Restaurant Eustonnew,Moderate,22:30,north_west_london,Indian,Regent's Park
+425718,PizzaExpress Wembley - Designer Outlet,Moderate,23:00,north_west_london,Pizzeria,Wembley
+442128,IRO SUSHI (West Hampstead),Moderate,22:30,north_west_london,Sushi,West Hampstead
+314256,Venue 295new,Moderate,"23:00, 23:30, 00:00",north_west_london,Mediterranean,Neasden
+410481,Meghna Grill - St John's Wood,Expensive,22:30,north_west_london,Indian,St John's Wood
+425865,PizzaExpress Harrow - St Georges Shopping Centre,Moderate,23:00,north_west_london,Pizzeria,Harrow
+380166,Beirut By Bite,Moderate,23:00,north_west_london,Lebanese,Queen's Park
+205599,The Cardamom Club,Moderate,23:00,north_west_london,Indian,Stanmore
+425703,PizzaExpress Stanmore - Broadway,Moderate,23:00,north_west_london,Pizzeria,Stanmore
+444543,Brasa Brazilian Steakhouse & Pizzerianew,Very Expensive,22:30,north_west_london,Brazilian Steakhouse,Kensal Green
+441678,Royal China (Harrow-on-the-Hill),Moderate,"23:00, 23:30",north_west_london,Chinese,Harrow
+111180,Bnova,Moderate,23:00,north_west_london,Indian,Stanmore
+24019,Namaste Lounge,Expensive,"23:00, 23:30",north_west_london,Contemporary Indian,Northwood
+401397,COLOMBARnew,Moderate,23:00,north_west_london,Seafood,Harrow
+138072,The Ivy Tower Bridge,Moderate,22:30,south_east_london,British,London Bridge
+97173,"GŎNG, Shangri-La The Shard, London",Very Expensive,"23:00, 23:30",south_east_london,Bar / Lounge / Bottle Service,London Bridge
+290616,Coco Grill & Lounge,Expensive,22:30,south_east_london,Mediterranean,Bermondsey
+17683,Gaucho Tower Bridge,Expensive,22:30,south_east_london,Steak,Southbank
+126975,O Ver Borough,Expensive,23:00,south_east_london,Italian,London Bridge
+151182,The Ivy Cafe Blackheath,Moderate,22:30,south_east_london,British,Blackheath
+394824,Piccolino Tower Bridge,Expensive,22:30,south_east_london,Italian,Bermondsey
+357702,8020 Georgian Bistro,Expensive,22:30,south_east_london,Bistro,Peckham
+100401,Hutong at The Shard,Very Expensive,22:30,south_east_london,Chinese,London Bridge
+426423,PizzaExpress Tower Bridge,Moderate,23:00,south_east_london,Pizzeria,Bermondsey
+421653,PizzaExpress London Bridge,Moderate,23:00,south_east_london,Pizzeria,Southwark
+353493,Ev Restaurant,Moderate,22:30,south_east_london,Turkish,Southwark
+34282,Fish!,Expensive,22:30,south_east_london,Fish,London Bridge
+425595,PizzaExpress London - Bankside,Moderate,"23:00, 23:30",south_east_london,Pizzeria,Southwark
+346227,Sticks'n'Sushi - Greenwich,Expensive,22:30,south_east_london,Sushi,Greenwich
+252915,Gordon Ramsay Street Burger — The O2,Moderate,23:00,south_east_london,Burgers,Greenwich
+394803,The India - Cannon Streetnew,Moderate,"23:00, 23:30",south_east_london,Indian,London Bridge
+425544,PizzaExpress Brockwell Park - Herne Hill,Moderate,23:00,south_east_london,Pizzeria,Herne Hill
+105846,Yama Momo,Expensive,23:00,south_east_london,Japanese,East Dulwich
+436092,Fiorenza,Expensive,22:30,south_east_london,Italian,Southwark
+265260,The Pizza Room - New Cross,Moderate,"23:00, 23:30",south_east_london,Pizzeria,Deptford
+268650,The Aycorn Shoppe,Expensive,22:30,south_east_london,Wine Bar,Croydon
+425841,PizzaExpress Greenwich - Church Street,Moderate,23:00,south_east_london,Pizzeria,Greenwich
+341205,Courtroom Bar @ The Dixon Tower Bridge,Expensive,23:00,south_east_london,Cocktail Bar,Bermondsey
+387294,Taste of Raj,Expensive,22:30,south_east_london,Indian,Blackheath
+19453,Gaucho The O2,Expensive,22:30,south_east_london,Steak,Greenwich
+397656,Cafe Raj,Moderate,23:00,south_east_london,Indian,Eltham
+425547,PizzaExpress Bromley - Widmore Road,Moderate,23:00,south_east_london,Pizzeria,Bromley
+456033,The Khans Restaurant [ Blackheath station ]new,Moderate,22:30,south_east_london,Indian,Blackheath
+266685,SMOQUE Bromleynew,Expensive,22:30,south_east_london,Turkish,Bromley
+340212,Hayatt Greenwich,Very Expensive,"23:00, 23:30, 00:00",south_east_london,Middle Eastern,Woolwich
+425868,PizzaExpress Purley - Brighton Road,Moderate,23:00,south_east_london,Pizzeria,Purley
+167178,Yen Burger,Moderate,22:30,south_east_london,Japanese,London Bridge
+106182,Shampan Bromley,Expensive,22:30,south_east_london,Indian,Bromley
+97629,Cyprianis Petts Wood,Moderate,22:30,south_east_london,Mediterranean,Chislehurst
+76630,Simply Indian,Moderate,"22:30, 23:00, 23:30",south_east_london,South Indian,London Bridge
+365529,City of London Cigars - Liverpool Street,Expensive,"23:00, 23:30, 00:00",south_east_london,Bar / Lounge / Bottle Service,London Bridge
+376767,Pizza Vics Restaurant,Moderate,23:00,south_east_london,Pizzeria,London Bridge
+426093,The Ivy Northcote Brasserie,Expensive,22:30,south_west_london,British,Balham
+80812,Bluebird Chelsea Restaurant,Expensive,22:30,south_west_london,Modern European,Chelsea
+247257,"The Ivy Asia, Chelsea",Expensive,22:30,south_west_london,Asian,Chelsea
+361968,Chelsea Grillnew,Very Expensive,22:30,south_west_london,Grill,Chelsea
+116787,The Ivy Chelsea Garden,Moderate,22:30,south_west_london,British,Chelsea
+353691,Harry’s Victoria,Expensive,22:30,south_west_london,Italian,Victoria
+205383,WC Wine & Charcuterie Clapham,Moderate,23:00,south_west_london,Tapas / Small Plates,Clapham
+145815,Osteria Romana,Expensive,22:30,south_west_london,Italian,Knightsbridge
+42436,MR CHOW,Very Expensive,"22:30, 23:00, 23:30",south_west_london,Chinese,Knightsbridge
+28395,Sale e Pepe,Very Expensive,22:30,south_west_london,Italian,Knightsbridge
+77935,Signor Sassi,Expensive,22:30,south_west_london,Italian,Belgravia
+425643,PizzaExpress London - Gloucester Road,Moderate,23:00,south_west_london,Pizzeria,South Kensington
+385641,San Carlo Knightsbridge,Moderate,22:30,south_west_london,Italian,Knightsbridge
+116745,The Blues Kitchen Brixton,Moderate,22:30,south_west_london,American,Brixton
+143208,Yucca,Moderate,22:30,south_west_london,Tex-Mex,Fulham
+271911,Frantoio,Very Expensive,22:30,south_west_london,Italian,Chelsea
+237327,Amiga,Moderate,"23:00, 23:30, 00:00",south_west_london,Mexican,Clapham
+374910,Lava Lounge,Moderate,"22:30, 23:00",south_west_london,Mediterranean,Wimbledon
+320511,Géa Chelsea,Expensive,23:00,south_west_london,Greek,Chelsea
+47311,Kora,Very Expensive,23:00,south_west_london,Mediterranean,Chelsea
+402675,Masa Restaurant,Moderate,22:30,south_west_london,Turkish,Fulham
+353010,Amelia’s,Expensive,22:30,south_west_london,Mediterranean,Chelsea
+425559,PizzaExpress Clapham - Lavender Hill,Moderate,23:00,south_west_london,Pizzeria,Battersea
+257451,Sticks'n'Sushi - Chelsea,Expensive,22:30,south_west_london,Sushi,Chelsea
+266394,Le Petit Beefbar,Very Expensive,22:30,south_west_london,Steakhouse,Chelsea
+421662,PizzaExpress Royal Festival Hall,Moderate,23:00,south_west_london,Pizzeria,Lambeth
+81910,PJ’S Chelsea Brasserie,Expensive,22:30,south_west_london,Modern European,Chelsea
+277317,Mestizo Chelsea - Mexican Restaurant,Expensive,"23:00, 23:30",south_west_london,Mexican,Chelsea
+163353,Mezcalito Chelsea,Expensive,23:00,south_west_london,Mexican,Chelsea
+267111,Lahore Karahi,Moderate,"23:00, 23:30",south_west_london,Pakistani,Tooting
+370581,Sticks'n'Sushi - Battersea,Expensive,22:30,south_west_london,Sushi,Battersea
+391002,Osteria Fiorentina,Very Expensive,22:30,south_west_london,Italian,Chelsea
+204207,Bill's Restaurant & Bar - Victoria,Moderate,22:30,south_west_london,British,Victoria
+248850,HUŎ Chelsea,Expensive,22:30,south_west_london,Asian,Chelsea
+388476,SACHI Restaurant,Very Expensive,22:30,south_west_london,Japanese,Belgravia
+310488,Mina'snew,Expensive,23:00,south_west_london,Mediterranean,Belgravia
+441324,Perola at Joia,Expensive,"23:00, 23:30",south_west_london,Bar / Lounge / Bottle Service,Battersea
+16786,Gaucho Sloane,Expensive,22:30,south_west_london,Steak,Chelsea
+92889,Macellaio RC South Kensington,Very Expensive,23:00,south_west_london,Italian,South Kensington
+355737,Annab Brasserie,Very Expensive,23:00,south_west_london,Lebanese,Fulham
+73126,Gazette Brasserie Battersea,Expensive,22:30,south_west_london,French,Battersea
+80110,Palace Spice Battersea,Moderate,22:30,south_west_london,Indian,Battersea
+424920,Curry Leaf,Moderate,22:30,south_west_london,Indian,Wandsworth
+443316,The Negroni Salon at The Lanesborough,Expensive,22:30,south_west_london,Bar / Lounge / Bottle Service,Belgravia
+350919,KOKA,Moderate,"23:00, 23:30",south_west_london,Mediterranean,Fulham
+134274,The Ivy Richmond Brasserie,Expensive,22:30,south_west_london,British,Richmond
+184386,Steak and Company Gloucester Road,Expensive,22:30,south_west_london,Steakhouse,South Kensington
+236904,Gordon Ramsay Street Pizza — Battersea,Moderate,23:00,south_west_london,Pizzeria,Battersea
+277326,Bombay Bicycle Chef,Moderate,22:30,south_west_london,Indian,Clapham
+96828,Riccardo’s,Expensive,22:30,south_west_london,Italian,Chelsea
+347592,Forty Five - Kensington,Expensive,"23:00, 23:30, 00:00",south_west_london,International,South Kensington
+94233,Mumbai Delight,Expensive,"23:00, 23:30",south_west_london,Indian,Vauxhall
+186420,Chucs Belgravia,Expensive,22:30,south_west_london,Italian,Belgravia
+337830,The Owl & Monkey,Expensive,22:30,south_west_london,Cocktail Bar,South Kensington
+127917,The Knox,Expensive,"23:00, 23:30, 00:00",south_west_london,Speakeasy,Belgravia
+401214,The Birds Nest - Brixton,Expensive,"23:00, 23:30",south_west_london,Pizzeria,Brixton
+249450,The Library Bar at The Lanesborough,Very Expensive,"23:00, 23:30, 00:00",south_west_london,Cocktail Bar,Knightsbridge
+394434,The Clandesti,Moderate,23:00,south_west_london,Bar / Lounge / Bottle Service,Victoria
+109650,Humble Grape Battersea,Expensive,22:30,south_west_london,Wine Bar,Battersea
+214482,Sticks'n'Sushi - Victoria,Expensive,22:30,south_west_london,Sushi,Victoria
+426012,PizzaExpress Clapham - Abbeville Road,Moderate,23:00,south_west_london,Pizzeria,Clapham
+391632,Silk Road Flavoursnew,Moderate,23:00,south_west_london,Persian,Fulham
+377082,The Joint,Moderate,23:00,south_west_london,Barbecue,Brixton
+259449,La Nonna Pasta Fresca,Moderate,22:30,south_west_london,Italian,Brixton
+362979,OSR Restaurant & Bar,Moderate,"23:00, 23:30, 00:00",south_west_london,Caribbean,Brixton
+425514,PizzaExpress Balham - Bedford Hill,Moderate,23:00,south_west_london,Pizzeria,Balham
+195738,Mucci's,Expensive,23:00,south_west_london,Italian,Chelsea
+305202,GiaGia,Moderate,22:30,south_west_london,Italian,Battersea
+81694,Indian Room Balham,Expensive,"23:00, 23:30",south_west_london,Indian,Balham
+368400,Masala Odyssey,Moderate,"23:00, 23:30, 00:00",south_west_london,Indian,Putney
+142233,Indian Moment – Battersea Rise,Moderate,"23:00, 23:30",south_west_london,Indian,Clapham
+363402,The BAM BAM Bar,Moderate,"23:00, 23:30, 00:00",south_west_london,Contemporary European,Victoria
+266169,The Aubrey @ Mandarin Hotel,Very Expensive,23:00,south_west_london,Japanese,Knightsbridge
+81547,Gazette Trinity,Expensive,22:30,south_west_london,French,Wandsworth
+28612,Tsunami - Clapham,Expensive,23:00,south_west_london,Japanese,Clapham
+421647,PizzaExpress London Kings Road The Pheasantry,Moderate,23:00,south_west_london,Pizzeria,Chelsea
+253914,Kricket at Sixes Fulham,Moderate,23:00,south_west_london,Indian,Fulham
+215763,EL&N Brompton Road,Moderate,23:00,south_west_london,Cafe Dining,Chelsea
+184809,TDQ Steaks,Expensive,"23:00, 23:30",south_west_london,Steakhouse,Vauxhall
+262257,Bocca Lounge,Moderate,"23:00, 23:30, 00:00",south_west_london,International,South Kensington
+388482,LUUM,Expensive,"22:30, 23:00, 23:30, 00:00",south_west_london,Bar / Lounge / Bottle Service,Belgravia
+16804,Gaucho Richmond,Expensive,22:30,south_west_london,Steak,Richmond
+126087,Q Bar & Restaurant,Expensive,22:30,south_west_london,Bistro,South Kensington
+249453,The Withdrawing Room at The Lanesborough,Expensive,"23:00, 23:30, 00:00",south_west_london,Afternoon Tea,Knightsbridge
+167691,"Mezemiso, Rooftop Restaurant & Shisha Terrace",Very Expensive,22:30,south_west_london,Lebanese,Vauxhall
+442254,Niu Ko,Moderate,22:30,south_west_london,Asian,South Kensington
+129366,Melanzana,Expensive,"23:00, 23:30",south_west_london,Italian,Battersea
+415503,Beef & Bassnew,Expensive,22:30,south_west_london,British,Chelsea
+425826,PizzaExpress Fulham - 895 Fulham Road,Moderate,23:00,south_west_london,Pizzeria,Fulham
+421659,PizzaExpress London Pimlico,Moderate,23:00,south_west_london,Pizzeria,Pimlico
+173322,LUSITANIA RESTAURANT,Moderate,22:30,south_west_london,Portuguese,Vauxhall
+101034,Gazette Putney,Moderate,22:30,south_west_london,French,Putney
+123057,Angoletto,Moderate,"23:00, 23:30",south_west_london,Italian,Battersea
+425820,PizzaExpress Fulham - 363 Fulham Road,Moderate,23:00,south_west_london,Pizzeria,Chelsea
+110418,Fulham Kitchen,Moderate,22:30,south_west_london,Continental,Fulham
+54883,Yamal Alsham Chelsea,Expensive,22:30,south_west_london,Lebanese,Chelsea
+186903,Beirut Restaurant Knightsbridge,Expensive,23:00,south_west_london,Lebanese,Knightsbridge
+188982,Grilandia Wimbledon,Moderate,22:30,south_west_london,Lebanese,Wimbledon
+84421,Caffe Concerto 78 Brompton Road,Moderate,"23:00, 23:30, 00:00",south_west_london,Italian,Knightsbridge
+391338,Aimer Restaurant,Moderate,23:00,south_west_london,Mediterranean,Wimbledon
+425517,PizzaExpress Barnes - High Street,Moderate,23:00,south_west_london,Pizzeria,Barnes
+259716,Grilandia East Sheen,Moderate,22:30,south_west_london,Lebanese,East Sheen
+425661,PizzaExpress London - Kennington Road,Moderate,23:00,south_west_london,Pizzeria,Kennington
+107541,Dalchini,Moderate,23:00,south_west_london,Chinese,Wimbledon
+445623,The Guru,Moderate,22:30,south_west_london,Indian,Barnes
+68137,Caffe Concerto Knightsbridge,Moderate,"23:00, 23:30",south_west_london,Cafe Dining,Knightsbridge
+425745,Grosvenor Casino Gloucester Roadnew,Expensive,"23:00, 23:30, 00:00",south_west_london,Modern European,South Kensington
+450867,SMOQUE Victorianew,Expensive,22:30,south_west_london,Turkish,Victoria
+358905,Sticks'n'Sushi - Richmond,Expensive,22:30,south_west_london,Sushi,Richmond
+237093,Hanrue Kensington,Expensive,"23:00, 23:30, 00:00",south_west_london,Korean,South Kensington
+173973,Sette,Very Expensive,22:30,south_west_london,Italian,Knightsbridge
+81457,Adulis Oval,Moderate,"23:00, 23:30",south_west_london,Eritrean,Kennington
+367701,The Nine Elms Bar | Lounge,Moderate,"23:00, 23:30, 00:00",south_west_london,Lounge,Battersea
+452817,Three Compadresnew,Moderate,22:30,south_west_london,Mexican,Tooting
+459900,Rung Mahalnew,Moderate,"23:00, 23:30",south_west_london,Indian,Tooting
+340695,Sticks'n'Sushi - Kingston,Expensive,22:30,south_west_london,Sushi,Kingston upon Thames
+425757,Grosvenor Casino Park Towernew,Very Expensive,"23:00, 23:30, 00:00",south_west_london,International,Knightsbridge
+425763,PizzaExpress East Sheen - Upper Richmond Road,Moderate,22:30,south_west_london,Pizzeria,East Sheen
+452304,YA Layalinanew,Moderate,"23:00, 23:30",south_west_london,Lebanese,Knightsbridge
+323556,Roots - Teddington,Expensive,22:30,south_west_london,Indian,Teddington
+123120,The Ram Kingston,Moderate,23:00,south_west_london,British,Kingston upon Thames
+94083,Thai Upon Thames,Moderate,22:30,south_west_london,Thai,Twickenham
+445050,Aya Restaurant & Shisha Lounge,Moderate,23:00,south_west_london,Lebanese,Merton
+180636,"Pizzeria Portofino - Richmond, UK",Moderate,23:00,south_west_london,Italian,Richmond
+192489,Colombo Kitchen - Hopper and Kottu Bar,Expensive,22:30,south_west_london,Sri Lankan,Worcester Park
+374124,Nepal Restaurant,Moderate,22:30,south_west_london,Nepalese,Richmond
+458883,"Cafe Masala, Richmondnew",Moderate,22:30,south_west_london,Indian,Richmond
+285378,Bacchanalia,Very Expensive,22:30,west_end_london,Greek,Mayfair
+116664,Sexy Fish London,Moderate,"23:00, 23:30",west_end_london,Asian,Mayfair
+130647,The Ivy Soho Brasserie,Moderate,22:30,west_end_london,British,Soho
+95421,Balthazar London,Expensive,22:30,west_end_london,French,Covent Garden
+98403,34 Mayfair,Very Expensive,22:30,west_end_london,Modern European,Mayfair
+98928,"The Original Ivy, West End",Moderate,22:30,west_end_london,British,Covent Garden
+116793,Ivy Market Grill,Moderate,23:00,west_end_london,British,Covent Garden
+53827,Dean Street Townhouse,Expensive,23:00,west_end_london,British,Soho
+111285,J Sheekey - The Restaurant,Expensive,22:30,west_end_london,Seafood,Covent Garden
+85780,STK Steakhouse London - Strand,Expensive,"23:00, 23:30",west_end_london,Steakhouse,Covent Garden
+162072,Old Compton Brasserie,Moderate,23:00,west_end_london,British,Soho
+245565,Blacklock Covent Garden,Moderate,22:30,west_end_london,Steakhouse,Covent Garden
+4275,Clos Maggiore,Expensive,22:30,west_end_london,French,Covent Garden
+203580,Happy,Moderate,23:00,west_end_london,European,Leicester Square
+271089,"The Ivy Asia, Mayfair",Expensive,23:00,west_end_london,Asian,Marble Arch
+204210,Bill's Restaurant & Bar - Soho,Moderate,"23:00, 23:30",west_end_london,British,Soho
+442353,Park Chinois - Berkeley Street,Very Expensive,23:00,west_end_london,Chinese,Mayfair
+214479,Sticks'n'Sushi - Soho,Expensive,22:30,west_end_london,Sushi,Soho
+75727,100 Wardour St,Very Expensive,23:00,west_end_london,European,Soho
+442596,Heard. Soho,Moderate,22:30,west_end_london,Burgers,Soho
+92079,Hawksmoor Air Street,Expensive,22:30,west_end_london,Steakhouse,Piccadilly
+317700,Bocconcino Soho,Expensive,22:30,west_end_london,Italian,Soho
+355695,Wahaca Covent Garden,Moderate,23:00,west_end_london,Mexican,Covent Garden
+175518,Hard Rock Cafe London Piccadilly Circus,Moderate,22:30,west_end_london,American,Piccadilly
+80221,Savoy Grill – Gordon Ramsay,Very Expensive,23:00,west_end_london,British,Covent Garden
+385647,Isola by San Carlo - London,Moderate,22:30,west_end_london,Italian,Marylebone
+52804,Hakkasan Mayfair,Very Expensive,23:00,west_end_london,Chinese,Mayfair
+173310,Cicchetti - Covent Garden,Moderate,22:30,west_end_london,Italian,Covent Garden
+69649,Palm Court Brasserie,Moderate,22:30,west_end_london,Contemporary French,Covent Garden
+130209,Cinnamon Bazaar - Covent Garden,Moderate,22:30,west_end_london,Contemporary Indian,Covent Garden
+426090,Harry's Covent Gardennew,Moderate,23:00,west_end_london,Italian,Covent Garden
+100362,Big Easy Covent Garden,Moderate,22:30,west_end_london,American,Covent Garden
+352743,Three Sheets - Soho,Moderate,22:30,west_end_london,Contemporary British,Soho
+372063,Osteria by Bocconcino,Expensive,22:30,west_end_london,Italian,Covent Garden
+120567,Inamo - Covent Garden,Moderate,22:30,west_end_london,Asian,Covent Garden
+319998,Gaucho Covent Garden,Expensive,23:00,west_end_london,Steakhouse,Covent Garden
+108798,Estiatorio Milos – London,Very Expensive,22:30,west_end_london,Seafood,Piccadilly
+40360,Yauatcha Soho,Expensive,22:30,west_end_london,Chinese,Soho
+323403,Paro Indian - Covent Garden & Strand,Moderate,22:30,west_end_london,Fusion / Eclectic,Covent Garden
+110892,Jamavar,Very Expensive,22:30,west_end_london,Indian,Mayfair
+259107,Inca London,Very Expensive,22:30,west_end_london,South American,Soho
+136608,Tamarind Kitchen Soho,Expensive,22:30,west_end_london,Indian,Soho
+154992,Kintan Oxford Circus,Moderate,23:00,west_end_london,Japanese (Yakiniku),Oxford Circus
+394761,27 Old Compton Street,Moderate,"23:00, 23:30, 00:00",west_end_london,Italian,Soho
+86848,Brasserie Zedel,Moderate,22:30,west_end_london,French,Piccadilly
+268458,Louie,Very Expensive,22:30,west_end_london,French,Covent Garden
+14449,Gaucho Piccadilly,Expensive,23:00,west_end_london,Steak,Piccadilly
+68977,The Delaunay,Expensive,22:30,west_end_london,European,Covent Garden
+144192,P.F. Chang's,Expensive,23:00,west_end_london,Chinese,Leicester Square
+88120,Benares,Very Expensive,22:30,west_end_london,Indian,Mayfair
+69916,Pierre Victoire,Moderate,23:00,west_end_london,French,Soho
+251799,Macellaio RC Soho,Expensive,23:00,west_end_london,Steak,Soho
+355050,Amici Soho,Expensive,22:30,west_end_london,Italian,Soho
+288147,Kapara,Expensive,22:30,west_end_london,Middle Eastern,Soho
+320010,Pastaio,Expensive,22:30,west_end_london,Italian,Soho
+330438,LAVO,Expensive,22:30,west_end_london,Italian,Marylebone
+78466,Le Garrick - Covent Garden,Moderate,22:30,west_end_london,French,Covent Garden
+122115,Hard Rock Cafe - London,Moderate,22:30,west_end_london,American,Mayfair
+7087,Kai Mayfair,Very Expensive,22:30,west_end_london,Chinese,Mayfair
+104076,Heddon Street Kitchen,Expensive,22:30,west_end_london,European,Piccadilly
+317433,Riviera,Expensive,22:30,west_end_london,French,Mayfair
+171063,Cecconi's Pizza Bar,Moderate,"23:00, 23:30",west_end_london,Pizza Bar,Soho
+266016,Manzi's,Expensive,22:30,west_end_london,Seafood,Soho
+82204,Maxwell's,Moderate,22:30,west_end_london,American,Covent Garden
+257562,Luciano by Gino D’Acampo London,Moderate,23:00,west_end_london,Contemporary Italian,Covent Garden
+259914,American Bar at The Savoy,Expensive,23:00,west_end_london,Bar / Lounge / Bottle Service,Aldwych
+98529,Flesh & Buns Covent Garden,Expensive,22:30,west_end_london,Japanese,Covent Garden
+158508,Meraki Restaurant,Very Expensive,22:30,west_end_london,Greek,Fitzrovia
+143286,Rossopomodoro - Covent Garden,Moderate,22:30,west_end_london,Pizzeria,Covent Garden
+176862,Kerridge’s Bar & Grill,Expensive,22:30,west_end_london,British,Westminster
+69847,Kettner’s,Expensive,22:30,west_end_london,French,Leicester Square
+255444,River Restaurant Gordon Ramsay,Expensive,23:00,west_end_london,Seafood,Covent Garden
+116790,Ivy Cafe - Marylebone,Moderate,22:30,west_end_london,British,Marylebone
+87874,Prix Fixe Brasserie,Moderate,23:00,west_end_london,French,Soho
+287859,Piccolino - Mayfair Heddon Street,Expensive,22:30,west_end_london,Italian,Mayfair
+69655,Boulevard Brasserie,Moderate,22:30,west_end_london,Contemporary French,Covent Garden
+86161,May Fair Kitchen,Expensive,22:30,west_end_london,Japanese,Mayfair
+41160,Sergios,Expensive,23:00,west_end_london,Italian,Fitzrovia
+214488,Sticks'n'Sushi - Covent Garden,Expensive,22:30,west_end_london,Sushi,Covent Garden
+249669,Mimi Mei Fair,Very Expensive,22:30,west_end_london,Chinese,Mayfair
+85774,Heliot Steak House,Expensive,22:30,west_end_london,Steakhouse,Leicester Square
+169170,Co&Ko,Expensive,22:30,west_end_london,Korean,Soho
+96552,Chotto Matte Soho,Very Expensive,23:00,west_end_london,Peruvian,Soho
+200292,Chourangi,Expensive,22:30,west_end_london,Indian,Marylebone
+80206,Gordon Ramsay Bar & Grill — Mayfair,Expensive,"23:00, 23:30",west_end_london,Steak,Mayfair
+150063,Cafe Pacifico,Moderate,23:00,west_end_london,Mexican,Covent Garden
+421629,PizzaExpress London Bow Street,Moderate,23:00,west_end_london,Pizzeria,Covent Garden
+141702,Bombay Bustle,Expensive,22:30,west_end_london,Indian,Mayfair
+425649,PizzaExpress London - Haymarket,Moderate,23:00,west_end_london,Pizzeria,Leicester Square
+418149,Aki Londonnew,Very Expensive,22:30,west_end_london,Japanese,Marylebone
+190449,Condesa,Moderate,22:30,west_end_london,Tapas / Small Plates,Covent Garden
+81121,Da Paolo Restaurant,Expensive,22:30,west_end_london,Italian,Fitzrovia
+369771,Grilandia - Mayfair,Moderate,23:00,west_end_london,Lebanese,Mayfair
+75622,Steak and Company Leicester Square,Expensive,22:30,west_end_london,Steakhouse,Charing Cross
+217821,The 40 Elephants,Moderate,"23:00, 23:30, 00:00",west_end_london,Cocktail Bar,Westminster
+74689,Refuel Restaurant at The Soho Hotel,Expensive,22:30,west_end_london,Contemporary British,Soho
+82675,Mele E Pere,Moderate,22:30,west_end_london,Italian,Soho
+281598,GURA GURA - Covent Garden,Moderate,23:00,west_end_london,Asian,Leicester Square
+425574,PizzaExpress London - 450 Strand,Moderate,22:30,west_end_london,Pizzeria,Covent Garden
+425790,PizzaExpress London - Victoria Street,Moderate,23:00,west_end_london,Pizzeria,Westminster
+184389,Steak and Company Piccadilly Circus,Expensive,22:30,west_end_london,Steakhouse,Piccadilly
+175248,Bloomsbury Street Kitchen,Expensive,23:00,west_end_london,Mediterranean,Bloomsbury
+165021,San Carlo Regent Street,Moderate,22:30,west_end_london,Italian,Charing Cross
+172440,Lucky Cat - Mayfair,Very Expensive,23:00,west_end_london,Contemporary Asian,Mayfair
+425748,PizzaExpress London - St Martins Lane,Moderate,23:00,west_end_london,Pizzeria,Covent Garden
+77755,Il Cucciolo,Expensive,22:30,west_end_london,Italian,Piccadilly
+33475,Gaucho Charlotte Street,Expensive,22:30,west_end_london,Steak,Fitzrovia
+85777,Radio Rooftop,Expensive,"23:00, 23:30, 00:00",west_end_london,Contemporary Asian,Covent Garden
+425619,PizzaExpress London - Coptic Street,Moderate,23:00,west_end_london,Pizzeria,Bloomsbury
+418905,Mediterranean Cafe Soho,Moderate,22:30,west_end_london,Mediterranean,Soho
+85711,28-50 Marylebone,Expensive,22:30,west_end_london,European,Marylebone
+126081,Demartino,Moderate,"23:00, 23:30, 00:00",west_end_london,Italian,Fitzrovia
+421632,PizzaExpress London Baker Street,Moderate,23:00,west_end_london,Pizzeria,Marylebone
+167259,Soho Wala,Moderate,23:00,west_end_london,Indian,Soho
+398691,The Alchemist St Martins Lane,Expensive,22:30,west_end_london,Cocktail Bar,Covent Garden
+425625,PizzaExpress London - Dean Street,Moderate,23:00,west_end_london,Pizzeria,Soho
+402612,Paradiso Soho,Moderate,23:00,west_end_london,Burgers,Soho
+127566,Blind Spot London,Expensive,"23:00, 23:30, 00:00",west_end_london,Cocktail Bar,Covent Garden
+109311,The May Fair Bar,Moderate,"23:00, 23:30, 00:00",west_end_london,Bar / Lounge / Bottle Service,Mayfair
+96762,Briciole Restaurant,Moderate,22:30,west_end_london,Italian,Marylebone
+28516,Zayna,Expensive,22:30,west_end_london,Indian,Marble Arch
+76432,L'ulivo Villiers Street,Expensive,23:00,west_end_london,Italian,Charing Cross
+318339,Paper Moon London,Very Expensive,22:30,west_end_london,Italian,Westminster
+258627,Eve Bar by Adam Handling,Expensive,"23:00, 23:30, 00:00",west_end_london,Bar / Lounge / Bottle Service,Covent Garden
+455418,Chargal Mayfairnew,Expensive,22:30,west_end_london,Mediterranean,Mayfair
+456708,Market Place Food Hall Leicester Squarenew,Moderate,23:00,west_end_london,"Global, International",Leicester Square
+394242,Limoncello Restaurant Leicester Squarenew,Expensive,"23:00, 23:30",west_end_london,Italian,Leicester Square
+369366,City Masala,Moderate,22:30,west_end_london,Indian,Holborn
+442707,Fifth Element Clevelandnew,Expensive,22:30,west_end_london,Italian,Fitzrovia
+442023,Fitz's Bar & Parlour,Moderate,"23:00, 23:30, 00:00",west_end_london,Bar / Lounge / Bottle Service,Bloomsbury
+76426,L'ulivo Leicester Square,Expensive,22:30,west_end_london,Italian,Leicester Square
+260355,Lobby Bar at One Aldwych,Expensive,23:00,west_end_london,Bar / Lounge / Bottle Service,Covent Garden
+418569,Benares Bar,Expensive,23:00,west_end_london,Bar / Lounge / Bottle Service,Mayfair
+333756,Thirteen at Chateau Denmark,Expensive,23:00,west_end_london,Contemporary Asian,Soho
+425580,PizzaExpress London - Aldwych,Moderate,23:00,west_end_london,Pizzeria,Covent Garden
+251403,Gordon Ramsay Street Burger — Covent Garden,Moderate,23:00,west_end_london,Burgers,Aldwych
+367800,Bar Kroketa St Christopher's Place,Moderate,23:00,west_end_london,Spanish,Marylebone
+345828,Little Italy,Expensive,23:00,west_end_london,Contemporary Italian,Leicester Square
+73930,Giotto Restaurant,Moderate,"23:00, 23:30, 00:00",west_end_london,Italian,Bloomsbury
+269340,Síbín Speakeasy,Expensive,"23:00, 23:30, 00:00",west_end_london,Bar / Lounge / Bottle Service,Westminster
+248472,8 at The Londoner,Moderate,"23:00, 23:30, 00:00",west_end_london,Bar / Lounge / Bottle Service,Soho
+268656,Caffé Concerto - Covent Garden,Moderate,23:00,west_end_london,Italian,Leicester Square
+371271,Shakara,Very Expensive,"22:30, 23:30, 00:00",west_end_london,West African,Marylebone
+206142,Colony Club,Moderate,"23:00, 23:30",west_end_london,Japanese,Mayfair
+319542,Bar Antoine,Expensive,"23:00, 23:30, 00:00",west_end_london,International,Mayfair
+258393,Joshua's Tavern at The Londoner,Moderate,22:30,west_end_london,Pub,Leicester Square
+347361,Hanasaki Japanese Restaurant,Expensive,22:30,west_end_london,Japanese,Fitzrovia
+254499,Diwan,Moderate,22:30,west_end_london,Lebanese,Marylebone
+248475,The Stage at the Londoner,Expensive,22:30,west_end_london,Cocktail Bar,Soho
+215502,Stork Restaurant & Bar Ltd,Very Expensive,23:00,west_end_london,African,Mayfair
+170970,Santo Mare,Very Expensive,22:30,west_end_london,Italian,Marylebone
+164124,Farzi London,Expensive,22:30,west_end_london,Indian,Piccadilly
+84016,VIA EMILIA (EX IN PARMA) by Food Roots - FITZROVIA,Moderate,22:30,west_end_london,Italian,Fitzrovia
+352866,Caffè Concerto Covent Garden Piazza,Moderate,23:00,west_end_london,Cafe Dining,Covent Garden
+268461,Koha Restaurant - Bar,Moderate,23:00,west_end_london,Cafe Dining,Soho
+443922,Sway Sports Barnew,Expensive,22:30,west_end_london,Sports Bar,Holborn
+450834,Ember at Horizonsnew,Expensive,23:00,west_end_london,"Global, International",Soho
+33061,Savoir Faire,Moderate,22:30,west_end_london,Italian,Covent Garden
+284679,The Meat & Wine Co Mayfair,Very Expensive,23:00,west_end_london,Steakhouse,Mayfair
+24942,Salt Whisky Barnew,Moderate,23:00,west_end_london,Indian,Marble Arch
+274986,Efes Bar & Restaurant,Moderate,23:00,west_end_london,Turkish,Soho
+309012,Royals India,Moderate,"23:00, 23:30, 00:00",west_end_london,Indian,Covent Garden
+206229,The Shell,Moderate,22:30,west_end_london,Seafood,Holborn
+364986,"Gourmet Burger Club, Covent Garden, London",Moderate,22:30,west_end_london,Burgers,Covent Garden
+278460,Bantof,Expensive,22:30,west_end_london,Modern European,Soho
+287211,BKC - Biryani Kebab Chai - Marble Arch,Moderate,22:30,west_end_london,Indian,Marble Arch
+87478,The Bull Steak Expert,Very Expensive,22:30,west_end_london,Argentinian,Holborn
+333495,Sheesh Mayfair,Very Expensive,23:00,west_end_london,Turkish,Mayfair
+278922,L'ulivo Restaurant - Strand,Expensive,23:00,west_end_london,Italian,Covent Garden
+370497,Aik Sitar,Moderate,22:30,west_end_london,Indian,Covent Garden
+104745,The Rajdoot,Moderate,22:30,west_end_london,Indian,Marylebone
+206328,The Palm Beach,Expensive,"23:00, 23:30, 00:00",west_end_london,International,Mayfair
+287127,Amano Rooftop Bar,Expensive,23:00,west_end_london,Bar / Lounge / Bottle Service,Aldwych
+4051,Restaurant 45 St Martins Lane London,Expensive,22:30,west_end_london,Contemporary French,Covent Garden
+273087,Caffe Concerto Northumberland Avenue,Moderate,22:30,west_end_london,Cafe Dining,Charing Cross
+325902,Nostimo,Moderate,22:30,west_end_london,Greek,Bloomsbury
+328053,Smith & Whistle Bar & Terrace - Sheraton Grand London Park Lane,Expensive,23:00,west_end_london,English,Mayfair
+216936,The Perception - W London,Expensive,"23:00, 23:30, 00:00",west_end_london,Dining Bar,Leicester Square
+374931,Sem’s of Mayfair,Expensive,23:30,west_end_london,Bar / Lounge / Bottle Service,Mayfair
+250845,The Coral Room,Expensive,22:30,west_end_london,Cocktail Bar,Bloomsbury
+425601,PizzaExpress London - Barrett Street,Moderate,23:00,west_end_london,Pizzeria,Marylebone
+47629,Jazz After Dark,Expensive,"23:00, 23:30, 00:00",west_end_london,Continental,Soho
+96177,Strand Tandoori,Moderate,"23:00, 23:30",west_end_london,Indian,Covent Garden
+421650,PizzaExpress Millbank,Moderate,23:00,west_end_london,Pizzeria,Millbank
+368169,Zaffran UK,Moderate,22:30,west_end_london,Indian,Marylebone
+273060,Caffe Concerto Piccadilly,Moderate,22:30,west_end_london,Cafe Dining,Soho
+273078,Caffe Concerto Regent Street,Moderate,"23:00, 23:30",west_end_london,Cafe Dining,Mayfair
+273090,Caffe Concerto Shaftesbury Avenue,Moderate,22:30,west_end_london,Cafe Dining,Soho
+98565,Luce e Limoni,Expensive,22:30,west_end_london,Contemporary Italian,Holborn
+332343,Bar 1890,Moderate,22:30,west_end_london,Bar / Lounge / Bottle Service,Covent Garden
+94890,The Palm Court at The Sheraton Grand London,Expensive,22:30,west_end_london,Afternoon Tea,Piccadilly
+126876,The Athenaeum Hotel,Expensive,"23:00, 23:30, 00:00",west_end_london,British,Mayfair
+166869,Sophie's Italian Restaurant,Moderate,22:30,west_end_london,Italian,Bloomsbury
+425736,Grosvenor Casino Barracudanew,Very Expensive,"23:00, 23:30, 00:00",west_end_london,International,Marylebone
+418329,The Bar at The Guardsman,Moderate,23:00,west_end_london,Bar / Lounge / Bottle Service,Westminster
+95805,Dieci Restaurant at No. Ten Manchester Street Hotel,Very Expensive,22:30,west_end_london,Italian,Marylebone
+317058,The Grand by Concerto,Moderate,23:00,west_end_london,Italian,Soho
+373776,Flowers Lebanese Restaurant,Moderate,"23:00, 23:30",west_end_london,Lebanese,Mayfair
+372627,Palm Asia,Moderate,23:00,west_end_london,Indian,Leicester Square
+273129,Caffe Concerto Bond St,Moderate,22:30,west_end_london,Cafe Dining,Mayfair
+451065,Violet's Café,Moderate,22:30,west_end_london,Cafe Dining,Soho
+180420,The Malt Lounge and Bar,Expensive,22:30,west_end_london,Creative Japanese,Marble Arch
+383103,SMOKY BOYS - Marylebonenew,Moderate,"23:00, 23:30",west_end_london,Barbecue,Marylebone
+425781,Grosvenor Casino The Victoria,Very Expensive,"23:00, 23:30, 00:00",west_end_london,Modern European,Marylebone
+330225,The Terrace by Pommery,Moderate,23:00,west_end_london,Cocktail Bar,Leicester Square
+452964,The Bombay Spice Marylebonenew,Moderate,23:00,west_end_london,Indian,Marylebone
+83593,Millbank Spice,Moderate,"22:30, 23:00",west_end_london,Indian,Millbank
+331215,Erev - Notting Hill,Very Expensive,22:30,west_london,Mediterranean,Notting Hill
+422121,Speedboat Bar at The Electric,Expensive,"23:00, 23:30, 00:00",west_london,Thai,Notting Hill
+88117,Smith's Bar & Grill,Moderate,23:30,west_london,British,Paddington
+274821,Zephyr,Very Expensive,22:30,west_london,Greek,Notting Hill
+116796,Ivy Kensington Brasserie,Moderate,22:30,west_london,British,Kensington
+291897,Sticks'n'Sushi - White City,Expensive,22:30,west_london,Sushi,Shepherd's Bush
+443157,Bottega 35,Expensive,22:30,west_london,Italian,Kensington
+100278,Cambio de Tercio,Expensive,22:30,west_london,Spanish,Kensington
+171015,Osteria Napoletana,Expensive,22:30,west_london,Italian,Notting Hill
+172305,Grilandia Bayswater,Moderate,23:00,west_london,Lebanese,Bayswater
+121746,Ukai,Very Expensive,22:30,west_london,Japanese,Notting Hill
+425682,PizzaExpress London - Notting Hill Gate,Moderate,23:00,west_london,Pizzeria,Kensington
+95448,Light Of India,Expensive,22:30,west_london,Indian,Kensington
+228879,Como Garden,Expensive,22:30,west_london,Italian,Kensington
+402060,Stumble Inn,Moderate,"23:00, 23:30, 00:00",west_london,Cocktail Bar,Kensington
+205797,Ayllu,Moderate,22:30,west_london,Japanese,Paddington
+262185,Three Falcons Gastro Pub,Expensive,22:30,west_london,Indian,Paddington
+289551,Akoya,Expensive,23:00,west_london,Lebanese,Notting Hill
+100284,Tendido Cero,Moderate,23:00,west_london,Spanish,Kensington
+72832,Nipa Thai,Very Expensive,22:30,west_london,Thai,Bayswater
+84217,Thali,Expensive,22:30,west_london,Indian,Kensington
+88435,Papaya Tree,Moderate,22:30,west_london,Thai,Kensington
+120636,Lisa's Italian,Expensive,23:00,west_london,Italian,Notting Hill
+206670,Copper Chimney,Moderate,22:30,west_london,Indian,Shepherd's Bush
+100281,Capote y Toros,Moderate,23:00,west_london,Spanish,Kensington
+276492,Farina Pizzeria Napoletana,Moderate,22:30,west_london,Pizzeria,Kensington
+252441,Grilandia Chiswick,Moderate,22:30,west_london,Lebanese,Chiswick
+364674,The Knight of Notting Hill,Moderate,22:30,west_london,American,Notting Hill
+184179,The Melody Whisky Bar London,Moderate,22:30,west_london,British,Hammersmith
+126387,ULI,Expensive,22:30,west_london,Asian,Notting Hill
+410418,BÓHA,Expensive,22:30,west_london,British,Parsons Green
+192396,Maroush Earls Court,Moderate,23:00,west_london,Middle Eastern,Earls Court
+425679,PizzaExpress Shepherds Bush - Rockley Road,Moderate,23:00,west_london,Pizzeria,Hammersmith
+425733,PizzaExpress London - Paddington,Moderate,23:00,west_london,Pizzeria,Paddington
+426129,Best Mangal 1996,Moderate,22:30,west_london,Turkish,Hammersmith
+425556,PizzaExpress Chiswick - High Road,Moderate,23:00,west_london,Pizzeria,Chiswick
+258012,Piano  Kensington,Moderate,23:00,west_london,Bar / Lounge / Bottle Service,Kensington
+332685,Nova Park Royal,Very Expensive,"23:00, 23:30, 00:00",west_london,Mediterranean,Acton
+383241,ADORA PIZZAnew,Moderate,"23:00, 23:30",west_london,Pizzeria,Kensington
+289314,Viajante87,Expensive,"23:00, 23:30, 00:00",west_london,Cocktail Bar,Notting Hill
+100302,Orjowan,Moderate,22:30,west_london,Lebanese,Earls Court
+165177,Casa Dino,Expensive,23:00,west_london,Italian,Chiswick
+338757,Mosaic Kitchen - Ealing,Expensive,22:30,west_london,Steak,Ealing / Ealing Broadway
+383259,SMOKY BOYS - Kensington High Streetnew,Moderate,"23:00, 23:30",west_london,Barbecue,Kensington
+425754,PizzaExpress Ealing - Bond Street,Moderate,23:00,west_london,Pizzeria,Brentford
+450849,Dawat Express - Paddingtonnew,Moderate,22:30,west_london,Pakistani,Paddington
+121695,Hobson's Fish and Chips Restaurant,Moderate,22:30,west_london,British,Paddington
+68134,Caffe Concerto Kensington,Moderate,"23:00, 23:30",west_london,Italian,Kensington
+404931,little luigi,Moderate,"23:00, 23:30",west_london,Italian,Kensington
+93210,Durbar,Moderate,23:00,west_london,Indian,Notting Hill
+68380,The Bengal,Moderate,22:30,west_london,Indian,Bayswater
+358188,Onyx,Very Expensive,23:00,west_london,Italian,Uxbridge
+425739,Grosvenor Casino Bayswaternew,Very Expensive,"23:00, 23:30, 00:00",west_london,Bar / Lounge / Bottle Service,Bayswater
+309567,Garum London,Expensive,22:30,west_london,Italian,Bayswater
+425193,AMIRI LOUNGE,Moderate,"23:00, 23:30",west_london,Indian,Brentford
+97161,Sizlers Italian Restaurant,Moderate,22:30,west_london,Italian,Isleworth
+166116,Mahal,Moderate,23:00,west_london,Indian,Paddington
+248430,PODS by Clay Oven,Expensive,22:30,west_london,Contemporary Indian,Uxbridge
+293406,Reis Grill & Bar,Expensive,22:30,west_london,Steak,Ruislip
+425676,PizzaExpress Ruislip - High Street,Moderate,23:00,west_london,Pizzeria,Ruislip
+73045,Tamara Lounge,Moderate,"23:00, 23:30, 00:00",west_london,Indian,Uxbridge
+176439,It's All Greek To Me,Moderate,"22:30, 23:00",west_london,Greek,Paddington
+251352,Carluccio's - Marriott Heathrow,Expensive,22:30,west_london,Italian,Heathrow
+277065,Sky Bar at Courtyard London Heathrow,Expensive,"23:00, 23:30, 00:00",west_london,Bar / Lounge / Bottle Service,Heathrow
+383223,ACTON Tasty Greek,Moderate,23:00,west_london,Greek,Acton
+94518,Fantasia Grill House,Moderate,"23:00, 23:30",west_london,Grill,Paddington
+393459,Mandala Restaurant and Lounge,Moderate,"23:00, 23:30, 00:00",west_london,Unspecified,West Drayton
+373308,Ten Restaurant,Expensive,22:30,west_london,Contemporary British,Ruislip
+328239,Sports Bar & Grill - Sheraton Skyline Hotel London Heathrow,Moderate,22:30,west_london,American,Heathrow
+334716,Sahara City Uxbridge,Moderate,23:00,west_london,Mediterranean,Uxbridge
+117057,Big Easy Canary Wharf,Moderate,22:30,docklands_canary_wharf,Barbecue,Canary Wharf
+165123,The Ivy in the Park,Moderate,22:30,docklands_canary_wharf,British,Canary Wharf
+214485,Sticks'n'Sushi - Canary Wharf,Expensive,22:30,docklands_canary_wharf,Sushi,Canary Wharf
+305346,Blacklock Canary Wharf,Moderate,22:30,docklands_canary_wharf,International,Canary Wharf
+17668,Gaucho Canary,Expensive,22:30,docklands_canary_wharf,Steak,Canary Wharf
+332799,Brera Lounge,Expensive,"23:00, 23:30, 00:00",docklands_canary_wharf,Lounge,Canary Wharf
+50593,Il Bianco,Moderate,22:30,docklands_canary_wharf,Italian,Docklands
+332736,The Boathouse London,Expensive,23:00,docklands_canary_wharf,Bar / Lounge / Bottle Service,Canary Wharf
+24544,Fremantle Bar & Kitchen,Expensive,23:00,docklands_canary_wharf,Modern Australian,Docklands
+265242,The Pizza Room - Mile End,Moderate,"23:00, 23:30",docklands_canary_wharf,Pizzeria,Limehouse
+416838,PANDYAS - Canary Wharf,Moderate,23:00,docklands_canary_wharf,Unspecified,Poplar
+166854,"The Ivy Brasserie and Roof Garden, Manchester",Expensive,22:30,manchester,British,Manchester
+126852,Menagerie Restaurant,Expensive,"23:00, 23:30, 00:00",manchester,American,Manchester
+387309,The Cut & Craft Manchester,Expensive,"23:00, 23:30, 00:00",manchester,British,Manchester
+206217,The Blues Kitchen - Manchester,Moderate,22:30,manchester,American,Manchester
+163416,Sicilian NQ Bar & Bistro,Expensive,22:30,manchester,Italian,Manchester
+274248,KITTEN,Very Expensive,22:30,manchester,Japanese,Manchester
+166851,"The Ivy Asia, Spinningfields",Expensive,22:30,manchester,Contemporary Asian,Manchester
+332451,Sexy Fish Manchester,Moderate,"23:00, 23:30, 00:00",manchester,Seafood,Manchester
+360927,HABBIBI Manchester,Very Expensive,22:30,manchester,Mediterranean,Manchester
+17671,Gaucho Manchester,Expensive,23:00,manchester,Steak,Manchester
+250986,SCHOFIELD'S BAR,Expensive,22:30,manchester,Cocktail Bar,Manchester
+287652,"Piccolino Caffe Grande - Clarence Street, Manchester",Expensive,22:30,manchester,Italian,Manchester
+253389,ONE EIGHT SIX,Expensive,"23:00, 23:30",manchester,Bar / Lounge / Bottle Service,Manchester
+316665,MNKY HSE Manchester,Very Expensive,23:00,manchester,Contemporary Latin American,Manchester
+122118,Hard Rock Cafe - Manchester,Moderate,23:00,manchester,American,Manchester
+351975,Home Chinese Manchester,Moderate,22:30,manchester,Chinese,Manchester
+293949,Lucky Cat - Manchester,Very Expensive,23:00,manchester,Contemporary Asian,Manchester
+287658,Riva Blu Italian Restaurant & Bar - Manchester,Expensive,22:30,manchester,Italian,Manchester
+276861,Zouk Tea Bar & Grill,Moderate,"23:00, 23:30",manchester,Indian,Manchester
+403293,Bar Shrimp,Expensive,"23:00, 23:30, 00:00",manchester,Seafood,Manchester
+122574,The Pen and Pencil,Moderate,"23:00, 23:30, 00:00",manchester,American,Manchester
+425817,PizzaExpress Manchester - Piccadilly Gardens,Moderate,23:00,manchester,Pizzeria,Manchester
+394749,Wood & Company,Moderate,"23:00, 23:30, 00:00",manchester,Cocktail Bar,Manchester
+426669,SDK Bar Restaurant,Expensive,22:30,manchester,Mediterranean,Manchester
+425814,PizzaExpress Manchester - Oxford Street,Moderate,23:00,manchester,Pizzeria,Manchester
+214941,Fumo - Manchesternew,Expensive,22:30,manchester,Italian,Manchester
+425811,PizzaExpress Manchester - First Street,Moderate,23:00,manchester,Pizzeria,Manchester
+417912,Chillz Restaurant Bar and Loungenew,Expensive,"23:00, 23:30",manchester,Fusion / Eclectic,Manchester
+421743,Gio Ristorante,Moderate,22:30,manchester,Italian,Manchester
+216033,The Daisy,Moderate,"23:00, 23:30, 00:00",manchester,Cocktail Bar,Manchester
+282051,V & A,Moderate,23:00,manchester,Regional British (Northwest),Castlefield
+338580,Big Licks,Moderate,22:30,manchester,Burgers,Castlefield
+426636,Barok,Moderate,22:30,manchester,Turkish,Chorlton
+359676,RIZQ,Moderate,23:00,manchester,Pan-Asian,Manchester
+419421,Grosvenor Casino Didsburynew,Expensive,23:00,manchester,Cocktail Bar,Didsbury
+299214,"Double Tree Restaurant, Altrinchamnew",Moderate,23:00,manchester,Indian,Altrincham
+419412,Grosvenor Casino Boltonnew,Moderate,23:00,manchester,Dining Bar,Bolton
+253893,Gino D’Acampo Newcastle,Expensive,22:30,newcastle,Italian,Newcastle upon Tyne
+134577,Valley Junction Jesmond Old Stationnew,Expensive,22:30,newcastle,Indian,Newcastle upon Tyne
+374850,Goomtinew,Moderate,22:30,newcastle,Indian,Newcastle upon Tyne
+355866,Akbars - Newcastle,Moderate,23:00,newcastle,Indian,Newcastle upon Tyne
+419487,Grosvenor Casino Newcastlenew,Expensive,23:00,newcastle,Bar / Lounge / Bottle Service,Newcastle upon Tyne
+375954,The 3 Stories - The Library,Moderate,23:00,newcastle,British,Sunderland
+358911,"The Ivy Brasserie, Belfast",Moderate,22:30,northern_ireland,British,Belfast
+161049,Henry's,Moderate,"23:00, 23:30, 00:00",northern_ireland,Irish,Belfast
+157833,Waterman,Expensive,22:30,northern_ireland,European,Belfast
+183945,No.4,Moderate,"23:00, 23:30, 00:00",northern_ireland,Cocktail Bar,Belfast
+425856,PizzaExpress Oxford - Golden Cross,Moderate,22:30,oxford,Pizzeria,Oxford
+180585,The Ivy Oxford Brasserie,Moderate,22:30,oxford,British,Oxford
+129042,Quod Restaurant & Bar,Expensive,22:30,oxford,European,Oxford
+214476,Sticks'n'Sushi - Oxford,Expensive,22:30,oxford,Sushi,Oxford
+128997,Parsonage Grill,Expensive,22:30,oxford,Contemporary British,Oxford
+242271,The Oxo Bar,Moderate,22:30,oxford,Cocktail Bar,Oxford
+275058,Cafe Coco,Moderate,22:30,oxford,Cafe Dining,Oxford
+346650,LJ - Love Jericho Cocktail Bar,Moderate,23:00,oxford,Cocktail Bar,Oxford
+302814,Kazbar Oxford,Moderate,23:00,oxford,Spanish,Oxford
+355764,Piccolino - Henley-on-Thames,Expensive,23:00,oxford,Italian,Henley-On-Thames
+425532,PizzaExpress Bicester - Market Square,Moderate,22:30,oxford,Pizzeria,Bicester
+453114,Kosknew,Moderate,22:30,oxford,Turkish,Banbury
+320004,Gaucho Cardiff,Expensive,23:00,south_wales,Steakhouse,Cardiff
+284202,"The Ivy Asia, Cardiff",Expensive,22:30,south_wales,Asian,Cardiff
+180651,The Ivy Cardiff,Moderate,22:30,south_wales,British,Cardiff
+263019,Pho Cardiff,Moderate,22:30,south_wales,Vietnamese,Cardiff
+426009,PizzaExpress Cardiff - Mermaid Quaynew,Moderate,23:00,south_wales,Pizzeria,Cardiff
+421341,Brothers Contemporary Indian Cuisine,Expensive,22:30,south_wales,Contemporary Indian,Cowbridge
+453321,The Swansea Jacknew,Moderate,22:30,south_wales,Indian,Swansea
+132372,The Ivy Cobham Garden,Moderate,23:00,surrey,British,Cobham
+264969,"The Ivy Asia, Guildford",Expensive,22:30,surrey,Contemporary Asian,Guildford
+157668,The Ivy Castle View,Moderate,22:30,surrey,British,Guildford
+327750,Piccolino - Virginia Water,Expensive,23:00,surrey,Italian,Virginia Water
+154875,La Meridiana,Expensive,22:30,surrey,Italian,Leatherhead
+384921,Urban Carnivore,Very Expensive,23:00,surrey,Fusion / Eclectic,Woking
+367617,Saffron Summer - Chessington,Moderate,22:30,surrey,Indian,Epsom
+367167,Sticks'n'Sushi - Wimbledon,Expensive,22:30,surrey,Sushi,New Malden
+371406,SMOQUE Warlinghamnew,Moderate,22:30,surrey,Turkish,Warlingham
+425562,PizzaExpress Coulsdon - Trinity Square,Moderate,23:00,surrey,Pizzeria,Coulsdon
+455451,Magic Epsomnew,Expensive,"23:00, 23:30, 00:00",surrey,Lounge,Epsom
+442653,Roti Corner,Expensive,"23:00, 23:30, 00:00",surrey,Indian,Camberley
+177687,Toriton Izakaya,Expensive,23:00,surrey,Japanese,Coulsdon
+425844,PizzaExpress New Malden - High Street,Moderate,23:00,surrey,Pizzeria,New Malden
+95973,Buenos Aires Argentine Steakhouse - Reigate,Expensive,22:30,surrey,Argentinian,Reigate
+274002,The Ivy Chichester Brasserie,Moderate,22:30,west_sussex,British,Chichester
+284664,"The Safari Pizza co, pizzeria and wine bar",Moderate,22:30,west_sussex,Pizzeria,Haywards Heath
+283974,Masala City,Moderate,23:00,west_sussex,Indian,Chichester
+389037,Green Mango,Moderate,22:30,west_sussex,Thai,Burgess Hill
+444384,Marley,Moderate,22:30,west_sussex,Turkish,Worthing
+148500,Sunny Restaurant and Greek Taverna,Moderate,22:30,west_sussex,Greek,Worthing
+394608,Jungle Junction,Moderate,22:30,west_sussex,Indian,Chichester
+319275,Gino D'Acampo Leeds,Expensive,22:30,yorkshire,Italian,Leeds
+319809,The Cut & Craft Leeds,Expensive,"23:00, 23:30, 00:00",yorkshire,British,Leeds
+284586,"The Ivy Asia, Leeds",Expensive,22:30,yorkshire,Asian,Leeds
+164583,The Ivy Victoria Quarter,Moderate,22:30,yorkshire,British,Leeds
+453768,India Bistronew,Moderate,22:30,yorkshire,Indian,Leeds
+287661,Riva Blu Italian Restaurant & Bar - Leeds City Centre,Expensive,22:30,yorkshire,Italian,Leeds
+62992,Sky Lounge at Doubletree by Hilton Leeds,Expensive,"23:00, 23:30",yorkshire,Regional British (Northwest),Leeds
+36610,Gaucho Leeds,Expensive,22:30,yorkshire,Steak,Leeds
+287868,The Restaurant Bar & Grill - Leeds,Expensive,"23:00, 23:30, 00:00",yorkshire,Grill,Leeds
+141852,The Ivy Harrogate Brasserie and Garden,Moderate,22:30,yorkshire,British,Harrogate
+456186,Bar & Rooftop at Uyarenew,Expensive,"23:00, 23:30",yorkshire,South Indian,Leeds
+208239,Aagrah - Leeds,Expensive,22:30,yorkshire,Indian,Leeds
+337749,Bab Tooma Leeds,Moderate,22:30,yorkshire,Syrian,Leeds
+141855,The Ivy St. Helen’s Square,Moderate,22:30,yorkshire,British,York
+419355,Grosvenor Casino Leedsnew,Expensive,"23:00, 23:30",yorkshire,British,Leeds
+386022,Bombay 2 Goa,Moderate,"23:00, 23:30, 00:00",yorkshire,Indian,Leeds
+189768,Bab Tooma Grande,Moderate,22:30,yorkshire,Middle Eastern,Bradford
+351948,Aagrah Shipley A La Carte & Buffetnew,Expensive,22:30,yorkshire,Indian,Bradford
+140139,29 States The Indian Kitchen,Moderate,22:30,yorkshire,Indian,York
+360540,The Indian Lounge,Moderate,23:00,yorkshire,Contemporary Indian,York
+327744,Piccolino - Sheffield,Expensive,22:30,yorkshire,Italian,Sheffield
+444906,Tavern On The Quaysnew,Moderate,"23:00, 23:30",yorkshire,British,Sheffield
+280455,El Toro Bawtry,Moderate,22:30,yorkshire,Spanish,Bawtry
+299172,Raj Pavilion,Moderate,22:30,yorkshire,Indian,Hull
+419370,Grosvenor Casino Sheffieldnew,Expensive,"23:00, 23:30, 00:00",yorkshire,British,Sheffield
+243822,The Cavendish Sheffield,Expensive,23:00,yorkshire,British,Sheffield
